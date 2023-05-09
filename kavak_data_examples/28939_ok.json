@@ -1,0 +1,2671 @@
+{
+  "id": "28939",
+  "status": "ok",
+  "data": {
+    "algoliaIndexName": "olimpo-mx",
+    "basicFeatures": {
+      "items": [
+        {
+          "code": "traction_type",
+          "cta": "Entendido",
+          "detail": "Es un sistema del motor que da el impulso a las llantas para que el auto avance. La diferencia está en que puede aplicarse a las dos ruedas delanteras (ideal para la ciudad), a las dos traseras (para recorrer ciudad y carretera, pero no se lleva bien con los caminos resbaladizos), o a las cuatro (perfecta para terrenos difíciles y extremos, por lo que generalmente se usa en vehículos de trabajo). ",
+          "name": "Tracción",
+          "value": "4x2"
+        },
+        {
+          "code": "transmission_type",
+          "name": "Transmisión",
+          "value": "Automático"
+        },
+        {
+          "code": "region",
+          "name": "Ciudad",
+          "value": "Guadalajara"
+        },
+        {
+          "code": "name",
+          "name": "Sucursal",
+          "url": "https://www.google.com/maps/dir/?api=1\u0026a;destination=20.570486,-103.455742\u0026a;travelmode=driving",
+          "value": "Kavak Punto Sur"
+        },
+        {
+          "code": "car_id",
+          "name": "Stock ID",
+          "value": "28939"
+        },
+        {
+          "code": "coordinate",
+          "name": "Estacionado en",
+          "value": "E-67"
+        },
+        {
+          "code": "oil_consume",
+          "cta": "Entendido",
+          "detail": "Es el número de kilómetros que puede recorrer un auto por cada litro de combustible, puede variar dependiendo si se recorre carretera, ciudad o la combinación de las dos.",
+          "name": "Consumo de Combustible (KM/L)",
+          "value": "12.4"
+        }
+      ],
+      "title": "Información básica"
+    },
+    "breadcrumbs": [
+      {
+        "text": "COMPRA DE AUTOS",
+        "url": "https://www.kavak.com/mx/seminuevos"
+      },
+      {
+        "text": "Nissan",
+        "url": "https://www.kavak.com/mx/seminuevos/?keyword=nissan"
+      },
+      {
+        "text": "Maxima",
+        "url": "https://www.kavak.com/mx/seminuevos/?keyword=nissan_maxima"
+      },
+      {
+        "current": true,
+        "text": "Exclusive Sedan 2017"
+      }
+    ],
+    "buyBox": {
+      "ctaBook": {
+        "dataCy": "btn-schedule-continue",
+        "hl": "https://www.kavak.com/mx/iniciar-sesion-telefono?redirectUrl=proceso-compra\u0026a;inventoryId=28939",
+        "label": "Apartar o Agendar visita",
+        "url": "https://www.kavak.com/mx/proceso-compra/?inventoryId=28939"
+      },
+      "ctaFinancing": {
+        "dataCy": "btn-payment-simulation-continue",
+        "icon": "\u0026l;svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g;\u0026l;rect x=\"0.75\" y=\"0.75\" width=\"18.5\" height=\"18.5\" rx=\"2.25\" stroke=\"#3374DB\" stroke-width=\"1.5\"/\u0026g;\u0026l;line y1=\"10.25\" x2=\"20\" y2=\"10.25\" stroke=\"#3374DB\" stroke-width=\"1.5\"/\u0026g;\u0026l;line x1=\"10.3242\" y1=\"3.27835e-08\" x2=\"10.3242\" y2=\"20\" stroke=\"#3374DB\" stroke-width=\"1.5\"/\u0026g;\u0026l;line x1=\"13.2832\" y1=\"5.5\" x2=\"16.2832\" y2=\"5.5\" stroke=\"#3374DB\" stroke-linecap=\"round\"/\u0026g;\u0026l;line x1=\"13.2832\" y1=\"14.5\" x2=\"16.2832\" y2=\"14.5\" stroke=\"#3374DB\" stroke-linecap=\"round\"/\u0026g;\u0026l;line x1=\"3.92188\" y1=\"5.5\" x2=\"7.92188\" y2=\"5.5\" stroke=\"#3374DB\" stroke-linecap=\"round\"/\u0026g;\u0026l;line x1=\"6.00098\" y1=\"3.5\" x2=\"6.00098\" y2=\"7.5\" stroke=\"#3374DB\" stroke-linecap=\"round\"/\u0026g;\u0026l;line x1=\"4.4825\" y1=\"13.0857\" x2=\"7.31092\" y2=\"15.9141\" stroke=\"#3374DB\" stroke-linecap=\"round\"/\u0026g;\u0026l;line x1=\"7.31055\" y1=\"13.0858\" x2=\"4.48212\" y2=\"15.9142\" stroke=\"#3374DB\" stroke-linecap=\"round\"/\u0026g;\u0026l;circle cx=\"14.7832\" cy=\"13\" r=\"0.5\" fill=\"#3374DB\"/\u0026g;\u0026l;circle cx=\"14.7832\" cy=\"16\" r=\"0.5\" fill=\"#3374DB\"/\u0026g;\u0026l;/svg\u0026g;",
+        "label": "Simula tu plan de pagos",
+        "url": ""
+      },
+      "filters": [
+        {
+          "label": "Año",
+          "value": 2017
+        },
+        {
+          "label": "Versión",
+          "value": "Exclusive"
+        },
+        {
+          "label": "Transmisión",
+          "value": "Automático"
+        }
+      ],
+      "isOnlineFirst": true,
+      "km": "56,422 km",
+      "name": "Nissan Maxima Exclusive Sedan 2017",
+      "price": [
+        {
+          "currency": "$",
+          "period": "/ mes",
+          "price": "411,999",
+          "pricePeriod": "5,293",
+          "subtitle": "Contado: ",
+          "title": "Desde"
+        }
+      ],
+      "regionName": "Guadalajara",
+      "showShareButton": true,
+      "titleClipboard": "Enlace copiado",
+      "titleShare": "Compartir este auto"
+    },
+    "checkout": {
+      "dynamic": {
+        "financingOnly": false,
+        "price": 411999,
+        "promotion": null,
+        "warehouse": {
+          "address": "Av. Punto Sur # 235, Los Gavilanes, 45645 Tlajomulco de Zúñiga, Jal. Sótano 2 Deck Norte",
+          "id": 33,
+          "isHome": false,
+          "isHubOnline": false,
+          "latitude": "20.570486",
+          "longitude": "-103.455742",
+          "name": "Kavak Punto Sur",
+          "region": "Guadalajara"
+        }
+      },
+      "static": {
+        "allowAppointment": true,
+        "carUrl": "https://www.kavak.com/mx/usado/nissan-maxima-exclusive-sedan-2017?id=28939",
+        "carYear": 2017,
+        "exteriorColor": "Rojo",
+        "id": 28939,
+        "km": "56422",
+        "make": "Nissan",
+        "media": {
+          "externalDimples": [
+            {
+              "description": null,
+              "media": "images/28939/dimples/exteriorDimple-JPEG_1651864103270_732247244263147526.jpeg",
+              "mediaType": "image",
+              "order": 36,
+              "position": {
+                "left": 264,
+                "top": 107
+              },
+              "thumbnail": "images/28939/dimples/exteriorDimple-JPEG_1651864103270_732247244263147526.jpeg",
+              "title": "Rayón Ligero"
+            },
+            {
+              "description": null,
+              "media": "images/28939/dimples/exterior-967-16065136131592.jpg",
+              "mediaType": "image",
+              "order": 54,
+              "position": {
+                "left": 49,
+                "top": 378
+              },
+              "thumbnail": "images/28939/dimples/exterior-967-16065136131592.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/28939/dimples/exterior-956-16065134482149.jpg",
+              "mediaType": "image",
+              "order": 54,
+              "position": {
+                "left": 47,
+                "top": 267
+              },
+              "thumbnail": "images/28939/dimples/exterior-956-16065134482149.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/28939/dimples/exterior-957-16065134628372.jpg",
+              "mediaType": "image",
+              "order": 54,
+              "position": {
+                "left": 52,
+                "top": 235
+              },
+              "thumbnail": "images/28939/dimples/exterior-957-16065134628372.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/28939/dimples/exterior-958-16065134749104.jpg",
+              "mediaType": "image",
+              "order": 54,
+              "position": {
+                "left": 38,
+                "top": 96
+              },
+              "thumbnail": "images/28939/dimples/exterior-958-16065134749104.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/28939/dimples/exterior-959-16065134882440.jpg",
+              "mediaType": "image",
+              "order": 54,
+              "position": {
+                "left": 38,
+                "top": 61
+              },
+              "thumbnail": "images/28939/dimples/exterior-959-16065134882440.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/28939/dimples/exterior-960-16065134983461.jpg",
+              "mediaType": "image",
+              "order": 54,
+              "position": {
+                "left": 169,
+                "top": 76
+              },
+              "thumbnail": "images/28939/dimples/exterior-960-16065134983461.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/28939/dimples/exterior-961-16065135140827.jpg",
+              "mediaType": "image",
+              "order": 54,
+              "position": {
+                "left": 215,
+                "top": 19
+              },
+              "thumbnail": "images/28939/dimples/exterior-961-16065135140827.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/28939/dimples/exterior-962-16065135302175.jpg",
+              "mediaType": "image",
+              "order": 54,
+              "position": {
+                "left": 24,
+                "top": 64
+              },
+              "thumbnail": "images/28939/dimples/exterior-962-16065135302175.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/28939/dimples/exterior-963-16065135445193.jpg",
+              "mediaType": "image",
+              "order": 54,
+              "position": {
+                "left": 271,
+                "top": 191
+              },
+              "thumbnail": "images/28939/dimples/exterior-963-16065135445193.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/28939/dimples/exterior-964-16065135570687.jpg",
+              "mediaType": "image",
+              "order": 54,
+              "position": {
+                "left": 269,
+                "top": 268
+              },
+              "thumbnail": "images/28939/dimples/exterior-964-16065135570687.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/28939/dimples/exterior-965-16065135748284.jpg",
+              "mediaType": "image",
+              "order": 54,
+              "position": {
+                "left": 155,
+                "top": 452
+              },
+              "thumbnail": "images/28939/dimples/exterior-965-16065135748284.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/28939/dimples/exterior-966-16065135937553.jpg",
+              "mediaType": "image",
+              "order": 54,
+              "position": {
+                "left": 72,
+                "top": 330
+              },
+              "thumbnail": "images/28939/dimples/exterior-966-16065135937553.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/28939/dimples/exterior-969-16065137158795.jpg",
+              "mediaType": "image",
+              "order": 48,
+              "position": {
+                "left": 136,
+                "top": 433
+              },
+              "thumbnail": "images/28939/dimples/exterior-969-16065137158795.jpg",
+              "title": "Abolladura Ligera"
+            }
+          ],
+          "internalDimples": [
+            {
+              "description": null,
+              "media": "images/28939/dimples/interiorDimple-JPEG_1651864179058_4939737653495701387.jpeg",
+              "mediaType": "image",
+              "order": 56,
+              "position": {
+                "left": 155,
+                "top": 211
+              },
+              "thumbnail": "images/28939/dimples/interiorDimple-JPEG_1651864179058_4939737653495701387.jpeg",
+              "title": "Desgaste de pieza"
+            },
+            {
+              "description": null,
+              "media": "images/28939/dimples/interior-970-16065137567645.jpg",
+              "mediaType": "image",
+              "order": 55,
+              "position": {
+                "left": 157,
+                "top": 301
+              },
+              "thumbnail": "images/28939/dimples/interior-970-16065137567645.jpg",
+              "title": "Otros"
+            }
+          ],
+          "inventoryMedia": [
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-frontal-lateral-piloto-lejana-1607461718373.jpg",
+              "mediaType": "image",
+              "order": 1,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-frontal-lateral-piloto-lejana-1607461718373.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-frontal-lateral-piloto-cercana-1607461717063.jpg",
+              "mediaType": "image",
+              "order": 2,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-frontal-lateral-piloto-cercana-1607461717063.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-frontal-1607461715555.jpg",
+              "mediaType": "image",
+              "order": 3,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-frontal-1607461715555.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-frontal-lateral-copiloto-1607461714115.jpg",
+              "mediaType": "image",
+              "order": 4,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-frontal-lateral-copiloto-1607461714115.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-lateral-copiloto-1607461712797.jpg",
+              "mediaType": "image",
+              "order": 5,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-lateral-copiloto-1607461712797.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-trasero-lateral-piloto-1607461711477.jpg",
+              "mediaType": "image",
+              "order": 6,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-trasero-lateral-piloto-1607461711477.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-trasera-1607461710136.jpg",
+              "mediaType": "image",
+              "order": 7,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-trasera-1607461710136.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-trasera-lateral-copiloto-1607461708705.jpg",
+              "mediaType": "image",
+              "order": 8,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-trasera-lateral-copiloto-1607461708705.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-lateral-piloto-1607461707353.jpg",
+              "mediaType": "image",
+              "order": 9,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-lateral-piloto-1607461707353.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-llanta-piloto-1607461705434.jpg",
+              "mediaType": "image",
+              "order": 10,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-llanta-piloto-1607461705434.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-llanta-trasera-piloto-1607461704008.jpg",
+              "mediaType": "image",
+              "order": 11,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-llanta-trasera-piloto-1607461704008.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-llanta-copiloto-1607461702596.jpg",
+              "mediaType": "image",
+              "order": 12,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-llanta-copiloto-1607461702596.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-llanta-trasera-copiloto-1607461701154.jpg",
+              "mediaType": "image",
+              "order": 13,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-llanta-trasera-copiloto-1607461701154.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-puerta-piloto-1607461699717.jpg",
+              "mediaType": "image",
+              "order": 14,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-puerta-piloto-1607461699717.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-puerta-abierta-piloto-1607461698335.jpg",
+              "mediaType": "image",
+              "order": 15,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-puerta-abierta-piloto-1607461698335.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-puerta-trasera-piloto-1607461696907.jpg",
+              "mediaType": "image",
+              "order": 16,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-puerta-trasera-piloto-1607461696907.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-puerta-abierta-trasera-piloto-1607461695515.jpg",
+              "mediaType": "image",
+              "order": 17,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-puerta-abierta-trasera-piloto-1607461695515.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-puerta-copiloto-1607461694114.jpg",
+              "mediaType": "image",
+              "order": 18,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-puerta-copiloto-1607461694114.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-puerta-abierta-copiloto-1607461692704.jpg",
+              "mediaType": "image",
+              "order": 19,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-puerta-abierta-copiloto-1607461692704.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-puerta-trasera-copiloto-1607461691314.jpg",
+              "mediaType": "image",
+              "order": 20,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-puerta-trasera-copiloto-1607461691314.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-puerta-abierta-trasera-copiloto-1607461689897.jpg",
+              "mediaType": "image",
+              "order": 21,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-puerta-abierta-trasera-copiloto-1607461689897.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-motor-1607461688515.jpg",
+              "mediaType": "image",
+              "order": 22,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-motor-1607461688515.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-vin-del-auto-1607461687157.jpg",
+              "mediaType": "image",
+              "order": 23,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-vin-del-auto-1607461687157.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-tablero-frontal-1607461685856.jpg",
+              "mediaType": "image",
+              "order": 24,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-tablero-frontal-1607461685856.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-consola-1607461684492.jpg",
+              "mediaType": "image",
+              "order": 25,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-consola-1607461684492.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-volante-1607461683027.jpg",
+              "mediaType": "image",
+              "order": 26,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-volante-1607461683027.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-palanca-1607461681668.jpg",
+              "mediaType": "image",
+              "order": 27,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-palanca-1607461681668.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-camara-de-reversa-(cuado-aplique)-1607461680099.jpg",
+              "mediaType": "image",
+              "order": 28,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-camara-de-reversa-(cuado-aplique)-1607461680099.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-asientos-trasero-copiloto-1607461678003.jpg",
+              "mediaType": "image",
+              "order": 30,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-asientos-trasero-copiloto-1607461678003.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-cajuela-abierta-1607461676690.jpg",
+              "mediaType": "image",
+              "order": 31,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-cajuela-abierta-1607461676690.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-llanta-de-repuesto-1607461675117.jpg",
+              "mediaType": "image",
+              "order": 32,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-llanta-de-repuesto-1607461675117.jpg"
+            },
+            {
+              "media": "images/28939/nissan-maxima-exclusive2017-controles-1607461673689.jpg",
+              "mediaType": "image",
+              "order": 33,
+              "thumbnail": "images/28939/nissan-maxima-exclusive2017-controles-1607461673689.jpg"
+            }
+          ],
+          "spin": null
+        },
+        "model": "Maxima",
+        "name": "Nissan Maxima Exclusive",
+        "redirectOutside": true,
+        "region": {
+          "id": 5,
+          "name": "Guadalajara"
+        },
+        "trim": "Exclusive"
+      }
+    },
+    "data": {
+      "foundById": true,
+      "mainResult": {
+        "_geoloc": {
+          "lat": 20.570486,
+          "lng": -103.455742
+        },
+        "_highlightResult": {
+          "body_type": {
+            "matchLevel": "none",
+            "matchedWords": [],
+            "value": "Sedan"
+          },
+          "car_id": {
+            "matchLevel": "none",
+            "matchedWords": [],
+            "value": "28939"
+          },
+          "car_model": {
+            "matchLevel": "none",
+            "matchedWords": [],
+            "value": "Maxima"
+          },
+          "car_name": {
+            "matchLevel": "none",
+            "matchedWords": [],
+            "value": "Nissan Maxima Exclusive"
+          },
+          "car_year": {
+            "matchLevel": "none",
+            "matchedWords": [],
+            "value": "2017"
+          },
+          "ext_color": {
+            "matchLevel": "none",
+            "matchedWords": [],
+            "value": "Rojo"
+          },
+          "fuel_type": {
+            "matchLevel": "none",
+            "matchedWords": [],
+            "value": "Gasolina"
+          },
+          "region_name": {
+            "matchLevel": "none",
+            "matchedWords": [],
+            "value": "Guadalajara"
+          },
+          "traction": {
+            "matchLevel": "none",
+            "matchedWords": [],
+            "value": "4x2"
+          },
+          "transmission": {
+            "matchLevel": "none",
+            "matchedWords": [],
+            "value": "Automático"
+          }
+        },
+        "algolia_ranking": 1,
+        "apply_uber": false,
+        "available": true,
+        "body_type": "Sedan",
+        "body_type_code": null,
+        "body_type_trans": null,
+        "car_family_data": "{\"id\":\"2953\",\"description\":\"Nissan Maxima 2016-2018 Sedan\",\"generation\":\"2016-2018\",\"image\":\"/assets/images/families/nissan/maxima-2016-2018-sedan.png\",\"bodyType\":\"Sedan\",\"makeDesc\":\"Nissan\",\"modelDesc\":\"Maxima\",\"modelUrl\":\"https://www.kavak.com/mx/nissan-maxima-2018-2017-2016-sedan-usados\",\"advancedSearchUrl\":\"https://www.kavak.com/mx/seminuevos/?maker=Nissan\u0026a;model=Maxima\u0026a;body_type=Sedan\u0026a;year=2016,2017,2018\"}",
+        "car_family_version": 2953,
+        "car_id": 28939,
+        "car_image": [
+          "/images/28939/nissan-maxima-exclusive2017-frontal-lateral-piloto-lejana-1607461718373.jpg",
+          "/images/28939/nissan-maxima-exclusive2017-frontal-lateral-piloto-cercana-1607461717063.jpg",
+          "/images/28939/nissan-maxima-exclusive2017-frontal-1607461715555.jpg",
+          "/images/28939/nissan-maxima-exclusive2017-frontal-lateral-copiloto-1607461714115.jpg"
+        ],
+        "car_last_digit_plate": "9",
+        "car_license_plate": "JPH6689",
+        "car_make": "Nissan",
+        "car_make_id": null,
+        "car_make_trans": null,
+        "car_model": "Maxima",
+        "car_model_code": "N031013",
+        "car_model_id": 2193,
+        "car_model_trans": null,
+        "car_name": "Nissan Maxima Exclusive",
+        "car_name_trans": null,
+        "car_postal_code": "45645",
+        "car_trim": "Exclusive",
+        "car_trim_trans": null,
+        "car_type": {
+          "name": "Sedan",
+          "png": "assets/images/models/sedan.png"
+        },
+        "car_url": "/nissan-maxima-exclusive-2017-compra-de-autos-28939",
+        "car_vin": "1N4AA6AP9HC373795",
+        "car_vip_data": {
+          "allow_appointment": true,
+          "data": "{\"car_media\":{\"inventoryMedia\":[{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-frontal-lateral-piloto-lejana-1607461718373.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-frontal-lateral-piloto-lejana-1607461718373.jpg\",\"order\":1},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-frontal-lateral-piloto-cercana-1607461717063.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-frontal-lateral-piloto-cercana-1607461717063.jpg\",\"order\":2},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-frontal-1607461715555.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-frontal-1607461715555.jpg\",\"order\":3},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-frontal-lateral-copiloto-1607461714115.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-frontal-lateral-copiloto-1607461714115.jpg\",\"order\":4},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-lateral-copiloto-1607461712797.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-lateral-copiloto-1607461712797.jpg\",\"order\":5},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-trasero-lateral-piloto-1607461711477.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-trasero-lateral-piloto-1607461711477.jpg\",\"order\":6},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-trasera-1607461710136.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-trasera-1607461710136.jpg\",\"order\":7},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-trasera-lateral-copiloto-1607461708705.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-trasera-lateral-copiloto-1607461708705.jpg\",\"order\":8},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-lateral-piloto-1607461707353.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-lateral-piloto-1607461707353.jpg\",\"order\":9},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-llanta-piloto-1607461705434.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-llanta-piloto-1607461705434.jpg\",\"order\":10},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-llanta-trasera-piloto-1607461704008.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-llanta-trasera-piloto-1607461704008.jpg\",\"order\":11},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-llanta-copiloto-1607461702596.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-llanta-copiloto-1607461702596.jpg\",\"order\":12},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-llanta-trasera-copiloto-1607461701154.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-llanta-trasera-copiloto-1607461701154.jpg\",\"order\":13},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-puerta-piloto-1607461699717.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-puerta-piloto-1607461699717.jpg\",\"order\":14},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-puerta-abierta-piloto-1607461698335.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-puerta-abierta-piloto-1607461698335.jpg\",\"order\":15},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-puerta-trasera-piloto-1607461696907.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-puerta-trasera-piloto-1607461696907.jpg\",\"order\":16},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-puerta-abierta-trasera-piloto-1607461695515.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-puerta-abierta-trasera-piloto-1607461695515.jpg\",\"order\":17},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-puerta-copiloto-1607461694114.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-puerta-copiloto-1607461694114.jpg\",\"order\":18},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-puerta-abierta-copiloto-1607461692704.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-puerta-abierta-copiloto-1607461692704.jpg\",\"order\":19},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-puerta-trasera-copiloto-1607461691314.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-puerta-trasera-copiloto-1607461691314.jpg\",\"order\":20},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-puerta-abierta-trasera-copiloto-1607461689897.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-puerta-abierta-trasera-copiloto-1607461689897.jpg\",\"order\":21},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-motor-1607461688515.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-motor-1607461688515.jpg\",\"order\":22},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-vin-del-auto-1607461687157.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-vin-del-auto-1607461687157.jpg\",\"order\":23},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-tablero-frontal-1607461685856.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-tablero-frontal-1607461685856.jpg\",\"order\":24},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-consola-1607461684492.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-consola-1607461684492.jpg\",\"order\":25},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-volante-1607461683027.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-volante-1607461683027.jpg\",\"order\":26},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-palanca-1607461681668.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-palanca-1607461681668.jpg\",\"order\":27},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-camara-de-reversa-(cuado-aplique)-1607461680099.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-camara-de-reversa-(cuado-aplique)-1607461680099.jpg\",\"order\":28},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-asientos-trasero-copiloto-1607461678003.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-asientos-trasero-copiloto-1607461678003.jpg\",\"order\":30},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-cajuela-abierta-1607461676690.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-cajuela-abierta-1607461676690.jpg\",\"order\":31},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-llanta-de-repuesto-1607461675117.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-llanta-de-repuesto-1607461675117.jpg\",\"order\":32},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/nissan-maxima-exclusive2017-controles-1607461673689.jpg\",\"media\":\"images/28939/nissan-maxima-exclusive2017-controles-1607461673689.jpg\",\"order\":33}],\"internalDimples\":[{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/dimples/interiorDimple-JPEG_1651864179058_4939737653495701387.jpeg\",\"media\":\"images/28939/dimples/interiorDimple-JPEG_1651864179058_4939737653495701387.jpeg\",\"order\":56,\"title\":\"Desgaste de pieza\",\"description\":null,\"position\":{\"top\":211,\"left\":155}},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/dimples/interior-970-16065137567645.jpg\",\"media\":\"images/28939/dimples/interior-970-16065137567645.jpg\",\"order\":55,\"title\":\"Otros\",\"description\":null,\"position\":{\"top\":301,\"left\":157}}],\"externalDimples\":[{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/dimples/exteriorDimple-JPEG_1651864103270_732247244263147526.jpeg\",\"media\":\"images/28939/dimples/exteriorDimple-JPEG_1651864103270_732247244263147526.jpeg\",\"order\":36,\"title\":\"Rayón Ligero\",\"description\":null,\"position\":{\"top\":107,\"left\":264}},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/dimples/exterior-967-16065136131592.jpg\",\"media\":\"images/28939/dimples/exterior-967-16065136131592.jpg\",\"order\":54,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":378,\"left\":49}},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/dimples/exterior-956-16065134482149.jpg\",\"media\":\"images/28939/dimples/exterior-956-16065134482149.jpg\",\"order\":54,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":267,\"left\":47}},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/dimples/exterior-957-16065134628372.jpg\",\"media\":\"images/28939/dimples/exterior-957-16065134628372.jpg\",\"order\":54,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":235,\"left\":52}},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/dimples/exterior-958-16065134749104.jpg\",\"media\":\"images/28939/dimples/exterior-958-16065134749104.jpg\",\"order\":54,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":96,\"left\":38}},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/dimples/exterior-959-16065134882440.jpg\",\"media\":\"images/28939/dimples/exterior-959-16065134882440.jpg\",\"order\":54,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":61,\"left\":38}},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/dimples/exterior-960-16065134983461.jpg\",\"media\":\"images/28939/dimples/exterior-960-16065134983461.jpg\",\"order\":54,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":76,\"left\":169}},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/dimples/exterior-961-16065135140827.jpg\",\"media\":\"images/28939/dimples/exterior-961-16065135140827.jpg\",\"order\":54,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":19,\"left\":215}},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/dimples/exterior-962-16065135302175.jpg\",\"media\":\"images/28939/dimples/exterior-962-16065135302175.jpg\",\"order\":54,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":64,\"left\":24}},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/dimples/exterior-963-16065135445193.jpg\",\"media\":\"images/28939/dimples/exterior-963-16065135445193.jpg\",\"order\":54,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":191,\"left\":271}},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/dimples/exterior-964-16065135570687.jpg\",\"media\":\"images/28939/dimples/exterior-964-16065135570687.jpg\",\"order\":54,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":268,\"left\":269}},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/dimples/exterior-965-16065135748284.jpg\",\"media\":\"images/28939/dimples/exterior-965-16065135748284.jpg\",\"order\":54,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":452,\"left\":155}},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/dimples/exterior-966-16065135937553.jpg\",\"media\":\"images/28939/dimples/exterior-966-16065135937553.jpg\",\"order\":54,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":330,\"left\":72}},{\"mediaType\":\"image\",\"thumbnail\":\"images/28939/dimples/exterior-969-16065137158795.jpg\",\"media\":\"images/28939/dimples/exterior-969-16065137158795.jpg\",\"order\":48,\"title\":\"Abolladura Ligera\",\"description\":null,\"position\":{\"top\":433,\"left\":136}}],\"spin\":null},\"currency\":null,\"warehouse\":{\"id\":\"33\",\"name\":\"Kavak Punto Sur\",\"isHome\":false,\"address\":\"Av. Punto Sur # 235, Los Gavilanes, 45645 Tlajomulco de Zúñiga, Jal. Sótano 2 Deck Norte\",\"latitude\":\"20.570486\",\"longitude\":\"-103.455742\",\"region\":\"Guadalajara\",\"isHubOnline\":false},\"features\":{\"mainAccessories\":{\"name\":\"General\",\"items\":[{\"name\":\"Nivel de Emisión CO2 (G/km) Ciudad/Carretera\",\"code\":\"emission_control_level_co2_level_-_g/km_combined\",\"value\":\"256\"},{\"name\":\"Uso\",\"code\":\"use_type\",\"value\":\"Particular\"},{\"name\":\"Litros\",\"code\":\"liter\",\"value\":\"3,5\"},{\"name\":\"Transmisión\",\"code\":\"transmission_type\",\"value\":\"Automático\"},{\"name\":\"Tracción\",\"code\":\"traction_type\",\"value\":\"4x2\"},{\"name\":\"Combustible\",\"code\":\"fuel\",\"value\":\"Gasolina\"},{\"name\":\"Torque Estimado lb/ft\",\"code\":\"maximum_torque_lb_ft\",\"value\":\"261\"},{\"name\":\"Caballos de Fuerza Estimado\",\"code\":\"horse_power\",\"value\":\"300\"},{\"name\":\"Consumo de Combustible L/ 100 km\",\"code\":\"oil_consume\",\"value\":\"12.4\"}]},\"otherAccessories\":[{\"name\":\"Exterior\",\"categories\":[{\"name\":\"Carrocería\",\"items\":[{\"name\":\"Tipo de Carrocería\",\"code\":\"body_type\",\"value\":\"Sedan\"}]},{\"name\":\"Puertas\",\"items\":[{\"name\":\"Apertura de Cajuela\",\"code\":\"trunk_opening\",\"value\":\"Remota\"},{\"name\":\"Número de Puertas\",\"code\":\"number_doors\",\"value\":\"4\"}]},{\"name\":\"Sistema de Luces\",\"items\":[{\"name\":\"Tipo de Faros\",\"code\":\"type_of_lights\",\"value\":\"LED\"},{\"name\":\"Faros Frontales\",\"code\":\"light\",\"value\":\"Faros de Niebla\"}]},{\"name\":\"Llantas\",\"items\":[{\"name\":\"Número de Rin\",\"code\":\"rim\",\"value\":\"18\"},{\"name\":\"Material Rin\",\"code\":\"rim_material\",\"value\":\"Aluminio\"}]}]},{\"name\":\"Equipamiento y Confort\",\"categories\":[{\"name\":\"Confort\",\"items\":[{\"name\":\"Quemacocos\",\"code\":\"sunroof\",\"value\":\"Panorámico\"},{\"name\":\"Tipo de Sensor Trasero\",\"code\":\"rear_parking_distance_system_type\",\"value\":\"Radar y cámara\"},{\"name\":\"Tipo de Sensor Delantero\",\"code\":\"front_parking_distance_system_type\",\"value\":\"Radar y cámara\"},{\"name\":\"Boton de Encendido\",\"code\":\"push_button_start\",\"value\":\"Sí\"}]},{\"name\":\"Aire\",\"items\":[{\"name\":\"Aire acondicionado\",\"code\":\"air_type\",\"value\":\"Sí\"}]}]},{\"name\":\"Seguridad\",\"categories\":[{\"name\":\"Asistencia de Conducción\",\"items\":[{\"name\":\"Control de tracción\",\"code\":\"traction_control\",\"value\":\"Sí\"}]},{\"name\":\"Seguridad\",\"items\":[{\"name\":\"Anclaje Infantil ISOFIX\",\"code\":\"isofix_preparation\",\"value\":\"Sí\"}]}]},{\"name\":\"Interior\",\"categories\":[{\"name\":\"Asientos\",\"items\":[{\"name\":\"Material de Asientos\",\"code\":\"seats_material\",\"value\":\"Piel\"}]}]},{\"name\":\"Entretenimiento y Conectividad\",\"categories\":[{\"name\":\"Sistema de Infotenimiento\",\"items\":[{\"name\":\"CD\",\"code\":\"audio_system_cd_in-dash\",\"value\":\"incluido\"},{\"name\":\"Pantalla Táctil\",\"code\":\"audio_system_touch_screen\",\"value\":\"Sí\"},{\"name\":\"Apple CarPlay\",\"code\":\"apple_car_play\",\"value\":\"Sí\"},{\"name\":\"Sistema de Navegación\",\"code\":\"gps\",\"value\":\"GPS\"}]},{\"name\":\"Conectividad\",\"items\":[{\"name\":\"USB\",\"code\":\"usb\",\"value\":\"incluido\"},{\"name\":\"AUX\",\"code\":\"aux_port\",\"value\":\"incluido\"}]}]},{\"name\":\"Interior\",\"categories\":[{\"name\":\"Pasajeros\",\"items\":[{\"name\":\"Número de Pasajeros\",\"code\":\"number_of_passengers\",\"value\":\"5\"}]}]}]},\"parts\":[],\"financingOnly\":false,\"paperwork\":{\"registrationPlateAmount\":{\"amount\":6728,\"free\":false},\"lowPlateAmount\":{\"amount\":5200,\"free\":true},\"circulationLicenceAmount\":{\"amount\":2350,\"free\":false},\"stateName\":\"JALISCO\",\"netsuiteStateId\":15,\"otherStatesPaperwork\":[{\"_id\":\"60da5cacbdd29b00088a8958\",\"netsuiteStateId\":7,\"stateName\":\"Ciudad de México\",\"tenure\":11217.779651999997,\"endorsement\":0,\"amount\":5000},{\"_id\":\"60da5cacbdd29b00088a8959\",\"netsuiteStateId\":11,\"stateName\":\"Estado de Mexico\",\"tenure\":11217.779651999997,\"endorsement\":0,\"amount\":3400},{\"_id\":\"60da5cacbdd29b00088a895a\",\"netsuiteStateId\":15,\"stateName\":\"Jalisco\",\"tenure\":20755.125176399997,\"endorsement\":0,\"amount\":6728}]},\"coordinate\":\"E-67\",\"indTenure\":true,\"accidents\":null}",
+          "hub_id": "33",
+          "url": "https://www.kavak.com/mx/usado/nissan-maxima-exclusive-sedan-2017?id=28939"
+        },
+        "car_year": 2017,
+        "currency_exchange": null,
+        "estimated_delivery_date": 20230430,
+        "ext_color": "Rojo",
+        "exterior_color": {
+          "hex": "otro",
+          "name": "Rojo"
+        },
+        "filter_status": "Disponible",
+        "filter_status_code": "available",
+        "final_price": 411999,
+        "financing_only": false,
+        "fuel_type": "Gasolina",
+        "fuel_type_code": "standard",
+        "fuel_type_trans": null,
+        "horse_power": "300",
+        "hub_hty_id": 1,
+        "icon": null,
+        "image_url": "/images/28939/nissan-maxima-exclusive2017-frontal-lateral-piloto-lejana-1607461718373.jpg",
+        "is_promotion": false,
+        "km": 56422,
+        "location_filter": "Punto Sur",
+        "location_filter_id": null,
+        "location_filter_trans": null,
+        "make": {
+          "name": "Nissan",
+          "png": "/assets/images/brands/color/nissan.png",
+          "svg": "/assets/images/brands/color/nissan.svg"
+        },
+        "make_model": "Nissan_Maxima",
+        "monthly_payment": 5293.092497600001,
+        "objectID": "28939",
+        "passengers": 5,
+        "post_date": 20230303,
+        "price": 411999,
+        "price_bucket": 3,
+        "pricing": {
+          "inv_id": 28939,
+          "price_index": 1.027341821391702,
+          "promotion_percentage": null,
+          "promotion_price": null,
+          "published_price": 411999,
+          "segment_current": "no_wishlist",
+          "status_id": 1
+        },
+        "promotion_color": null,
+        "promotion_name": null,
+        "promotion_price": null,
+        "region_id": 5,
+        "region_location": "Guadalajara_Punto Sur",
+        "region_name": "Guadalajara",
+        "region_name_array": [
+          "Guadalajara"
+        ],
+        "region_name_trans": null,
+        "status": "AVAILABLE",
+        "traction": "4x2",
+        "transmission": "Automático",
+        "transmission_code": "automatic",
+        "transmission_trans": null,
+        "zero_kms": {}
+      }
+    },
+    "dimples": {
+      "disclaimer": "*El vehículo puede presentar otros detalles estéticos menores. En esta sección, solo se muestran los más relevantes.",
+      "externalBtnAria": "Exterior details",
+      "externalBtnLabel": "EXTERIOR",
+      "externalDimpleMapImg": {
+        "img": {
+          "draggable": false,
+          "height": 276,
+          "src": "https://images.kavak.services/mx/assets/images/vip/webp/dimple_exterior_beta.webp",
+          "width": 426
+        }
+      },
+      "internalBtnAria": "Interior details",
+      "internalBtnLabel": "INTERIOR",
+      "internalDimpleMapImg": {
+        "img": {
+          "draggable": false,
+          "height": 276,
+          "src": "https://images.kavak.services/mx/assets/images/vip/webp/dimple_interior_beta.webp",
+          "width": 426
+        }
+      },
+      "isActive": true,
+      "media": {
+        "external": [
+          {
+            "base": "",
+            "dimple": {
+              "left": 264,
+              "top": 107
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/dimples/exteriorDimple-JPEG_1651864103270_732247244263147526.jpeg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/dimples/exteriorDimple-JPEG_1651864103270_732247244263147526.jpeg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 49,
+              "top": 378
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/dimples/exterior-967-16065136131592.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/dimples/exterior-967-16065136131592.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 47,
+              "top": 267
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/dimples/exterior-956-16065134482149.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/dimples/exterior-956-16065134482149.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 52,
+              "top": 235
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/dimples/exterior-957-16065134628372.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/dimples/exterior-957-16065134628372.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 38,
+              "top": 96
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/dimples/exterior-958-16065134749104.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/dimples/exterior-958-16065134749104.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 38,
+              "top": 61
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/dimples/exterior-959-16065134882440.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/dimples/exterior-959-16065134882440.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 169,
+              "top": 76
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/dimples/exterior-960-16065134983461.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/dimples/exterior-960-16065134983461.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 215,
+              "top": 19
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/dimples/exterior-961-16065135140827.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/dimples/exterior-961-16065135140827.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 24,
+              "top": 64
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/dimples/exterior-962-16065135302175.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/dimples/exterior-962-16065135302175.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 271,
+              "top": 191
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/dimples/exterior-963-16065135445193.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/dimples/exterior-963-16065135445193.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 269,
+              "top": 268
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/dimples/exterior-964-16065135570687.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/dimples/exterior-964-16065135570687.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 155,
+              "top": 452
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/dimples/exterior-965-16065135748284.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/dimples/exterior-965-16065135748284.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 72,
+              "top": 330
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/dimples/exterior-966-16065135937553.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/dimples/exterior-966-16065135937553.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 136,
+              "top": 433
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/dimples/exterior-969-16065137158795.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/dimples/exterior-969-16065137158795.jpg"
+              }
+            ]
+          }
+        ],
+        "internal": [
+          {
+            "base": "",
+            "dimple": {
+              "left": 155,
+              "top": 211
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/dimples/interiorDimple-JPEG_1651864179058_4939737653495701387.jpeg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/dimples/interiorDimple-JPEG_1651864179058_4939737653495701387.jpeg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 157,
+              "top": 301
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/dimples/interior-970-16065137567645.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/dimples/interior-970-16065137567645.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      "showToggle": true,
+      "subtitle": "",
+      "title": "Imperfecciones"
+    },
+    "emptyState": {
+      "cta": {
+        "dataCy": "btn-see-more-cars",
+        "label": "Ver autos similares",
+        "url": "https://www.kavak.com/mx/estatus-Disponible/compra-de-autos"
+      },
+      "description": "Explora todos los modelos similares que tenemos en nuestro catálogo y encuentra el tuyo.",
+      "icon": "\u0026l;svg width=\"61\" height=\"60\" viewBox=\"0 0 61 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g;\u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M18.4102 15.0311H12.8608C11.3189 15.0311 9.93411 15.975 9.37041 17.4102L7.77493 21.4724L4.85228 24.3907C4.14781 25.0941 3.75195 26.0488 3.75195 27.0443V35.6251C3.75195 37.6962 5.43089 39.3751 7.50195 39.3751H9.44343C9.89838 42.5553 12.6334 45 15.9395 45C19.2455 45 21.9805 42.5553 22.4355 39.3751H37.5684C38.0234 42.5553 40.7584 45 44.0645 45C47.3705 45 50.1055 42.5553 50.5605 39.3751H52.502C54.573 39.3751 56.252 37.6962 56.252 35.6251V33.1194C56.252 29.5916 53.7876 26.543 50.3466 25.7909L40.4365 23.6249C37.3735 19.7416 35.167 17.5104 33.0265 16.3134C30.7299 15.0292 28.6584 15.0301 26.4338 15.031L26.252 15.0311H19.0937C18.9829 15.0107 18.8687 15 18.752 15C18.6352 15 18.521 15.0107 18.4102 15.0311ZM44.0051 35.6256C44.0247 35.6253 44.0445 35.6251 44.0645 35.6251C44.0844 35.6251 44.1042 35.6253 44.1238 35.6256C45.6497 35.6572 46.877 36.904 46.877 38.4375C46.877 39.9908 45.6178 41.25 44.0645 41.25C42.5112 41.25 41.252 39.9908 41.252 38.4375C41.252 36.904 42.4792 35.6572 44.0051 35.6256ZM44.1708 31.8758C47.3442 31.9202 49.155 33.9464 50.0198 35.6251H52.502V33.1194C52.502 31.3597 51.2705 29.8314 49.5459 29.4544L43.3837 28.1076C43.2998 28.1191 43.214 28.125 43.1269 28.125H20.627C18.5559 28.125 16.877 26.4461 16.877 24.375V18.7811H12.8608L11.2654 22.8433C11.0765 23.3243 10.7902 23.761 10.4246 24.1261L7.50195 27.0443V35.6251H9.98411C10.8489 33.9464 12.6597 31.9202 15.8331 31.8758C15.8685 31.8753 15.9039 31.875 15.9395 31.875C15.975 31.875 16.0104 31.8753 16.0458 31.8758C19.2192 31.9202 21.03 33.9464 21.8948 35.6251H38.1091C38.9739 33.9464 40.7847 31.9202 43.9581 31.8758C43.9935 31.8753 44.0289 31.875 44.0645 31.875C44.1 31.875 44.1354 31.8753 44.1708 31.8758ZM36.221 24.375L20.627 24.375V18.7811H26.252C28.6456 18.7811 29.8052 18.8086 31.1962 19.5864C32.4308 20.2768 33.9296 21.6176 36.221 24.375ZM15.8801 35.6256C15.8997 35.6253 15.9195 35.6251 15.9395 35.6251C15.9594 35.6251 15.9792 35.6253 15.9988 35.6256C17.5247 35.6572 18.752 36.904 18.752 38.4375C18.752 39.9908 17.4928 41.25 15.9395 41.25C14.3862 41.25 13.127 39.9908 13.127 38.4375C13.127 36.904 14.3542 35.6572 15.8801 35.6256Z\" fill=\"#C7C7C7\"/\u0026g;\u0026l;/svg\u0026g;",
+      "isActive": false,
+      "title": "¡Ay! Esta opción no está disponible en este momento"
+    },
+    "features": {
+      "title": "Características",
+      "types": [
+        {
+          "icon": "\u0026l;svg width=\"25\" height=\"24\" viewBox=\"0 0 25 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path d=\"M12.391 21.5C17.7583 21.5 22.1093 17.1348 22.1093 11.75C22.1093 6.36522 17.7583 2 12.391 2C7.02376 2 2.67273 6.36522 2.67273 11.75C2.67273 17.1348 7.02376 21.5 12.391 21.5Z\" stroke=\"#333333\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M12.3919 12.3998C13.1076 12.3998 13.6878 11.8178 13.6878 11.0998C13.6878 10.3818 13.1076 9.7998 12.3919 9.7998C11.6763 9.7998 11.0961 10.3818 11.0961 11.0998C11.0961 11.8178 11.6763 12.3998 12.3919 12.3998Z\" stroke=\"#333333\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M16.28 16.3C16.28 16.6448 16.1435 16.9754 15.9004 17.2192C15.6574 17.463 15.3278 17.6 14.9841 17.6H9.80063C9.45695 17.6 9.12734 17.463 8.88431 17.2192C8.64129 16.9754 8.50476 16.6448 8.50476 16.3C8.50476 15.9552 8.64129 15.6246 8.88431 15.3808C9.12734 15.137 9.45695 15 9.80063 15H14.9841C15.3278 15 15.6574 15.137 15.9004 15.3808C16.1435 15.6246 16.28 15.9552 16.28 16.3Z\" stroke=\"#333333\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M9.9541 4.38184L10.3982 5.60297\" stroke=\"#333333\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M6.21985 7.52539L7.34207 8.17539\" stroke=\"#333333\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M5.37317 12.3414L6.65004 12.1152\" stroke=\"#333333\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M14.8304 4.38184L14.3864 5.60297\" stroke=\"#333333\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M18.5644 7.52539L13.5139 10.4504\" stroke=\"#333333\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M19.41 12.3414L18.1332 12.1152\" stroke=\"#333333\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;/svg\u0026g;",
+          "items": [
+            {
+              "code": "emission_control_level_co2_level_-_g/km_combined",
+              "name": "Nivel de Emisión CO2 (G/km) Ciudad/Carretera",
+              "value": "256"
+            },
+            {
+              "code": "use_type",
+              "name": "Uso",
+              "value": "Particular"
+            },
+            {
+              "code": "liter",
+              "name": "Litros",
+              "value": "3,5"
+            },
+            {
+              "code": "transmission_type",
+              "name": "Transmisión",
+              "value": "Automático"
+            },
+            {
+              "code": "traction_type",
+              "name": "Tracción",
+              "value": "4x2"
+            },
+            {
+              "code": "fuel",
+              "name": "Combustible",
+              "value": "Gasolina"
+            },
+            {
+              "code": "maximum_torque_lb_ft",
+              "name": "Torque Estimado lb/ft",
+              "value": "261"
+            },
+            {
+              "code": "horse_power",
+              "name": "Caballos de Fuerza Estimado",
+              "value": "300"
+            },
+            {
+              "code": "oil_consume",
+              "name": "Consumo de Combustible L/ 100 km",
+              "value": "12.4"
+            }
+          ],
+          "title": "General"
+        },
+        {
+          "icon": "\u0026l;svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.36328 6.01243H5.14356C4.52678 6.01243 3.97286 6.38998 3.74738 6.96407L3.10919 8.58897L1.94013 9.75629C1.65834 10.0377 1.5 10.4195 1.5 10.8177V14.25C1.5 15.0785 2.17157 15.75 3 15.75H3.77659C3.95857 17.0221 5.05259 18 6.375 18C7.69741 18 8.79143 17.0221 8.97341 15.75H15.0266C15.2086 17.0221 16.3026 18 17.625 18C18.9474 18 20.0414 17.0221 20.2234 15.75H21C21.8284 15.75 22.5 15.0785 22.5 14.25V13.2478C22.5 11.8366 21.5143 10.6172 20.1379 10.3164L16.1738 9.44995C14.9486 7.89663 14.066 7.00416 13.2098 6.52537C12.2912 6.01168 11.4626 6.01203 10.5728 6.01241L10.5 6.01243H7.63672C7.59239 6.00427 7.54669 6 7.5 6C7.45331 6 7.40761 6.00427 7.36328 6.01243ZM17.6013 14.2502C17.6091 14.2501 17.617 14.25 17.625 14.25C17.633 14.25 17.6409 14.2501 17.6487 14.2502C18.2591 14.2629 18.75 14.7616 18.75 15.375C18.75 15.9963 18.2463 16.5 17.625 16.5C17.0037 16.5 16.5 15.9963 16.5 15.375C16.5 14.7616 16.9909 14.2629 17.6013 14.2502ZM17.6677 12.7503C18.937 12.7681 19.6612 13.5786 20.0071 14.25H21V13.2478C21 12.5439 20.5074 11.9325 19.8176 11.7818L17.3527 11.243C17.3191 11.2476 17.2848 11.25 17.25 11.25H8.25C7.42157 11.25 6.75 10.5784 6.75 9.75V7.51243H5.14356L4.50537 9.13733C4.42981 9.3297 4.31531 9.50439 4.16906 9.65042L3 10.8177V14.25H3.99286C4.33877 13.5786 5.06304 12.7681 6.33232 12.7503C6.34652 12.7501 6.36075 12.75 6.375 12.75C6.38925 12.75 6.40348 12.7501 6.41768 12.7503C7.68696 12.7681 8.41123 13.5786 8.75714 14.25H15.2429C15.5888 13.5786 16.313 12.7681 17.5823 12.7503C17.5965 12.7501 17.6107 12.75 17.625 12.75C17.6393 12.75 17.6535 12.7501 17.6677 12.7503ZM14.4876 9.75L8.25 9.75V7.51243H10.5C11.4575 7.51243 11.9213 7.52345 12.4777 7.83458C12.9715 8.11073 13.571 8.64703 14.4876 9.75ZM6.35125 14.2502C6.35911 14.2501 6.36703 14.25 6.375 14.25C6.38297 14.25 6.39089 14.2501 6.39875 14.2502C7.0091 14.2629 7.5 14.7616 7.5 15.375C7.5 15.9963 6.99632 16.5 6.375 16.5C5.75368 16.5 5.25 15.9963 5.25 15.375C5.25 14.7616 5.7409 14.2629 6.35125 14.2502Z\" fill=\"#333333\"/\u0026g; \u0026l;/svg\u0026g;",
+          "items": [
+            {
+              "category": "Carrocería",
+              "code": "body_type",
+              "name": "Tipo de Carrocería",
+              "value": "Sedan"
+            },
+            {
+              "category": "Puertas",
+              "code": "trunk_opening",
+              "name": "Apertura de Cajuela",
+              "value": "Remota"
+            },
+            {
+              "category": "Puertas",
+              "code": "number_doors",
+              "name": "Número de Puertas",
+              "value": "4"
+            },
+            {
+              "category": "Sistema de Luces",
+              "code": "type_of_lights",
+              "name": "Tipo de Faros",
+              "value": "LED"
+            },
+            {
+              "category": "Sistema de Luces",
+              "code": "light",
+              "name": "Faros Frontales",
+              "value": "Faros de Niebla"
+            },
+            {
+              "category": "Llantas",
+              "code": "rim",
+              "name": "Número de Rin",
+              "value": "18"
+            },
+            {
+              "category": "Llantas",
+              "code": "rim_material",
+              "name": "Material Rin",
+              "value": "Aluminio"
+            }
+          ],
+          "title": "Exterior"
+        },
+        {
+          "icon": "\u0026l;svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path d=\"M11.7364 21.5C17.115 21.5 21.4751 17.1348 21.4751 11.75C21.4751 6.36523 17.115 2 11.7364 2C6.35786 2 1.99768 6.36523 1.99768 11.75C1.99768 17.1348 6.35786 21.5 11.7364 21.5Z\" stroke=\"black\" stroke-width=\"1.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M11.7365 18.8996C15.6807 18.8996 18.8782 15.6984 18.8782 11.7496C18.8782 7.80077 15.6807 4.59961 11.7365 4.59961C7.79219 4.59961 4.59473 7.80077 4.59473 11.7496C4.59473 15.6984 7.79219 18.8996 11.7365 18.8996Z\" stroke=\"black\" stroke-width=\"1.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M18.7484 10.4019C16.4963 9.59911 14.1268 9.1762 11.7365 9.15039C9.34611 9.17596 6.97657 9.59887 4.72461 10.4019\" stroke=\"black\" stroke-width=\"1.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M4.70801 13.0279C7.83912 12.4568 10.3348 14.3279 9.82235 18.6396\" stroke=\"black\" stroke-width=\"1.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M18.7649 13.0279C15.6338 12.4568 13.138 14.3279 13.6505 18.6396\" stroke=\"black\" stroke-width=\"1.3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M11.7366 12.4C11.5571 12.4 11.4116 12.2545 11.4116 12.075C11.4116 11.8955 11.5571 11.75 11.7366 11.75\" stroke=\"black\" stroke-width=\"1.3\"/\u0026g; \u0026l;path d=\"M11.7366 12.4C11.9161 12.4 12.0616 12.2545 12.0616 12.075C12.0616 11.8955 11.9161 11.75 11.7366 11.75\" stroke=\"black\" stroke-width=\"1.3\"/\u0026g; \u0026l;/svg\u0026g;",
+          "items": [
+            {
+              "category": "Confort",
+              "code": "sunroof",
+              "name": "Quemacocos",
+              "value": "Panorámico"
+            },
+            {
+              "category": "Confort",
+              "code": "rear_parking_distance_system_type",
+              "name": "Tipo de Sensor Trasero",
+              "value": "Radar y cámara"
+            },
+            {
+              "category": "Confort",
+              "code": "front_parking_distance_system_type",
+              "name": "Tipo de Sensor Delantero",
+              "value": "Radar y cámara"
+            },
+            {
+              "category": "Confort",
+              "code": "push_button_start",
+              "name": "Boton de Encendido",
+              "value": "Sí"
+            },
+            {
+              "category": "Aire",
+              "code": "air_type",
+              "name": "Aire acondicionado",
+              "value": "Sí"
+            }
+          ],
+          "title": "Equipamiento y confort"
+        },
+        {
+          "icon": "\u0026l;svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4.50001 3C3.67355 3 3 3.6681 3 4.4985L3.00001 9.75003C3.00001 12.8886 3.79007 14.9185 5.05221 16.4117C6.10328 17.6552 7.4624 18.4874 8.74 19.2697L8.74087 19.2703C8.94743 19.3967 9.15185 19.5219 9.3525 19.6473L9.3701 19.6583L11.2766 20.7079C11.727 20.9558 12.273 20.9558 12.7234 20.7079L14.6299 19.6583L14.6475 19.6473C14.8484 19.5217 15.0531 19.3964 15.26 19.2697C16.5376 18.4874 17.8967 17.6552 18.9478 16.4117C20.2099 14.9185 21 12.8886 21 9.75V4.5C21 3.67157 20.3284 3 19.5 3H4.50001ZM19.5 4.5H4.50001L4.50001 9.75003C4.50001 12.6115 5.20994 14.2747 6.19779 15.4434C7.0805 16.4877 8.20918 17.1815 9.49611 17.9726C9.70337 18.1 9.91473 18.23 10.1298 18.3643L12 19.3939L13.8702 18.3643C14.0853 18.23 14.2966 18.1 14.5039 17.9726C15.7908 17.1815 16.9195 16.4877 17.8022 15.4434C18.7901 14.2747 19.5 12.6114 19.5 9.75V4.5ZM15.15 7.80008C15.3985 7.46871 15.8686 7.40155 16.2 7.65008C16.5313 7.89861 16.5985 8.36871 16.35 8.70008L12.3688 14.0083C11.8211 14.7385 10.7536 14.8144 10.1081 14.1689L8.46962 12.5304C8.17673 12.2375 8.17673 11.7626 8.46962 11.4698C8.76252 11.1769 9.23739 11.1769 9.53028 11.4698L11.1688 13.1083L15.15 7.80008Z\" fill=\"#333333\"/\u0026g; \u0026l;/svg\u0026g;",
+          "items": [
+            {
+              "category": "Asistencia de Conducción",
+              "code": "traction_control",
+              "name": "Control de tracción",
+              "value": "Sí"
+            },
+            {
+              "category": "Seguridad",
+              "code": "isofix_preparation",
+              "name": "Anclaje Infantil ISOFIX",
+              "value": "Sí"
+            }
+          ],
+          "title": "Seguridad"
+        },
+        {
+          "icon": "\u0026l;svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M3.29529 4.75779C3.0184 3.92713 3.50888 3.03688 4.35897 2.82713L5.33079 2.58734C6.42822 2.31655 7.55621 2.902 7.96641 3.9553L8.45247 5.20336C8.87427 6.28644 8.40169 7.51254 7.36208 8.03234L6.35877 8.534C5.54232 8.94222 4.55359 8.53268 4.26493 7.6667L3.29529 4.75779ZM5.69013 4.04366L4.71832 4.28345L5.68795 7.19236L6.69126 6.6907C7.0378 6.51743 7.19532 6.10873 7.05472 5.74771L6.56867 4.49965C6.43193 4.14855 6.05594 3.9534 5.69013 4.04366ZM12.5578 15.75L11.4106 11.9261C10.7777 9.81628 8.47122 8.70379 6.42605 9.52187L6.36274 9.54719C5.6378 9.83717 5.25654 10.6348 5.48616 11.381L8.28298 20.4707C8.3647 20.7363 8.58657 20.9349 8.85955 20.9869C8.91133 20.9968 8.96334 21.001 9.01481 21H19.5C20.3284 21 21 20.3284 21 19.5C21 17.4289 19.3211 15.75 17.25 15.75H12.5578ZM17.25 17.25L12.3605 17.25L10.5605 19.5H19.5C19.5 18.2574 18.4926 17.25 17.25 17.25ZM6.98314 10.9146C8.21024 10.4237 9.59411 11.0912 9.97388 12.3571L11.1684 16.3388L9.29974 18.6746L6.91982 10.9399L6.98314 10.9146Z\" fill=\"#333333\"/\u0026g; \u0026l;/svg\u0026g;",
+          "items": [
+            {
+              "category": "Asientos",
+              "code": "seats_material",
+              "name": "Material de Asientos",
+              "value": "Piel"
+            },
+            {
+              "category": "Pasajeros",
+              "code": "number_of_passengers",
+              "name": "Número de Pasajeros",
+              "value": "5"
+            }
+          ],
+          "title": "Interior"
+        },
+        {
+          "icon": "\u0026l;svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.1903 4.5C10.8777 4.5 10.5729 4.59768 10.3184 4.7794L6.50961 7.5H3C2.17157 7.5 1.5 8.17157 1.5 9V15C1.5 15.8284 2.17157 16.5 3 16.5H6.50961L10.3184 19.2206C10.5729 19.4023 10.8777 19.5 11.1903 19.5L12 19.5C12.8284 19.5 13.5 18.8284 13.5 18V6C13.5 5.17157 12.8284 4.5 12 4.5H11.1903ZM7.5 15.3641L11.1903 18L12 18V6H11.1903L7.5 8.63593V15.3641ZM3 9H6V15H3V9ZM16.5 7.5C16.5 7.08579 16.8358 6.75 17.25 6.75C20.1495 6.75 22.5 9.1005 22.5 12C22.5 14.8995 20.1495 17.25 17.25 17.25C16.8358 17.25 16.5 16.9142 16.5 16.5C16.5 16.0858 16.8358 15.75 17.25 15.75C19.3211 15.75 21 14.0711 21 12C21 9.92893 19.3211 8.25 17.25 8.25C16.8358 8.25 16.5 7.91421 16.5 7.5ZM17.25 9.75C16.8358 9.75 16.5 10.0858 16.5 10.5C16.5 10.9142 16.8358 11.25 17.25 11.25C17.6642 11.25 18 11.5858 18 12C18 12.4142 17.6642 12.75 17.25 12.75C16.8358 12.75 16.5 13.0858 16.5 13.5C16.5 13.9142 16.8358 14.25 17.25 14.25C18.4926 14.25 19.5 13.2426 19.5 12C19.5 10.7574 18.4926 9.75 17.25 9.75Z\" fill=\"#333333\"/\u0026g; \u0026l;/svg\u0026g;",
+          "items": [
+            {
+              "category": "Sistema de Infotenimiento",
+              "code": "audio_system_cd_in-dash",
+              "name": "CD",
+              "value": "incluido"
+            },
+            {
+              "category": "Sistema de Infotenimiento",
+              "code": "audio_system_touch_screen",
+              "name": "Pantalla Táctil",
+              "value": "Sí"
+            },
+            {
+              "category": "Sistema de Infotenimiento",
+              "code": "apple_car_play",
+              "name": "Apple CarPlay",
+              "value": "Sí"
+            },
+            {
+              "category": "Sistema de Infotenimiento",
+              "code": "gps",
+              "name": "Sistema de Navegación",
+              "value": "GPS"
+            },
+            {
+              "category": "Conectividad",
+              "code": "usb",
+              "name": "USB",
+              "value": "incluido"
+            },
+            {
+              "category": "Conectividad",
+              "code": "aux_port",
+              "name": "AUX",
+              "value": "incluido"
+            }
+          ],
+          "title": "Entretenimiento"
+        }
+      ]
+    },
+    "financingBanner": {
+      "button": {
+        "dataCy": "btn-simulate-payment-plan",
+        "hl": "https://www.kavak.com/mx/iniciar-sesion-telefono?returnUrl=financing-initialization",
+        "label": "Simular plan de pagos",
+        "url": "https://www.kavak.com/mx/financing-initialization"
+      },
+      "image": {
+        "global": true,
+        "img": {
+          "alt": "Simular plan de pagos",
+          "draggable": false,
+          "height": 96,
+          "loading": "lazy",
+          "width": 241
+        },
+        "sources": [
+          {
+            "default": true,
+            "srcset": "https://images.kavak.services/mx/assets/images/vip/png/vip-financing-banner-v2-lg.png",
+            "type": "image/png"
+          }
+        ]
+      },
+      "isActive": true,
+      "itemList": [
+        {
+          "description": "Cotiza según tus preferencias y elige los plazos que más te convengan.",
+          "icon": {
+            "src": "\u0026l;svg width=\"26\" height=\"26\" viewBox=\"0 0 26 26\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M13 3.25C7.61522 3.25 3.25 7.61522 3.25 13C3.25 18.3848 7.61522 22.75 13 22.75C18.3848 22.75 22.75 18.3848 22.75 13C22.75 7.61522 18.3848 3.25 13 3.25ZM1.625 13C1.625 6.71776 6.71776 1.625 13 1.625C19.2822 1.625 24.375 6.71776 24.375 13C24.375 19.2822 19.2822 24.375 13 24.375C6.71776 24.375 1.625 19.2822 1.625 13ZM13 6.5C13.4487 6.5 13.8125 6.86377 13.8125 7.3125V8.9375H14.625C15.0737 8.9375 15.4375 9.30127 15.4375 9.75C15.4375 10.1987 15.0737 10.5625 14.625 10.5625H12.1875C11.7388 10.5625 11.375 10.9263 11.375 11.375C11.375 11.8237 11.7388 12.1875 12.1875 12.1875C12.2124 12.1875 12.237 12.1886 12.2614 12.1908C12.2857 12.1886 12.3103 12.1875 12.3352 12.1875H13.6648C15.0246 12.1875 16.25 13.2137 16.25 14.625C16.25 15.985 15.112 16.9874 13.8125 17.0585V18.6874C13.8125 19.1362 13.4487 19.4999 13 19.4999C12.5513 19.4999 12.1875 19.1362 12.1875 18.6874V17.0625H11.375C10.9263 17.0625 10.5625 16.6987 10.5625 16.25C10.5625 15.8013 10.9263 15.4375 11.375 15.4375L13.6648 15.4375C14.2631 15.4375 14.625 15.0086 14.625 14.625C14.625 14.2414 14.2631 13.8125 13.6648 13.8125H12.3352C12.3103 13.8125 12.2857 13.8114 12.2614 13.8092C12.237 13.8114 12.2124 13.8125 12.1875 13.8125C10.8413 13.8125 9.75 12.7212 9.75 11.375C9.75 10.0288 10.8413 8.9375 12.1875 8.9375V7.3125C12.1875 6.86377 12.5513 6.5 13 6.5Z\" fill=\"#333333\"/\u0026g; \u0026l;/svg\u0026g;"
+          },
+          "title": "Simula planes en tiempo real "
+        },
+        {
+          "description": "Completa tu información y valídala sin salir de tu casa.",
+          "icon": {
+            "src": "\u0026l;svg width=\"28\" height=\"28\" viewBox=\"0 0 28 28\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7 1.75C6.0335 1.75 5.25 2.5335 5.25 3.5V24.5C5.25 25.4665 6.0335 26.25 7 26.25H21C21.9665 26.25 22.75 25.4665 22.75 24.5V9.98744C22.75 9.9162 22.7457 9.84542 22.7371 9.77543C22.7456 9.72656 22.75 9.6763 22.75 9.625C22.75 9.32914 22.6032 9.06758 22.3784 8.90921C22.3349 8.85362 22.2879 8.80043 22.2374 8.75L15.75 2.26256C15.6996 2.21214 15.6464 2.1651 15.5908 2.12161C15.4324 1.89684 15.1709 1.75 14.875 1.75C14.8237 1.75 14.7734 1.75441 14.7246 1.76288C14.6546 1.75434 14.5838 1.75 14.5126 1.75H7ZM14 3.5L7 3.5V24.5H21V10.5H15.75C14.7835 10.5 14 9.7165 14 8.75V3.5ZM19.7626 8.75L15.75 4.73744V8.75H19.7626Z\" fill=\"#333333\"/\u0026g; \u0026l;/svg\u0026g;"
+          },
+          "title": "Carga tus datos 100% online"
+        }
+      ],
+      "title": "Paga tu auto en hasta 60 meses"
+    },
+    "highlights": {
+      "highlights": [
+        {
+          "icon": "\u0026l;svg width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path d=\"M23.264 25.1965C23.264 25.6208 23.0954 26.0277 22.7954 26.3277C22.4954 26.6277 22.0885 26.7962 21.6643 26.7962H5.6671C5.24283 26.7962 4.83593 26.6277 4.53593 26.3277C4.23592 26.0277 4.06738 25.6208 4.06738 25.1965V15.5982C4.06738 15.174 4.23592 14.7671 4.53593 14.4671C4.83593 14.1671 5.24283 13.9985 5.6671 13.9985H12.066C12.5139 13.1027 12.7869 12.3988 13.8544 12.3988H17.4805C18.5469 12.3988 18.821 13.1027 19.2689 13.9985H21.6685C22.0928 13.9985 22.4997 14.1671 22.7997 14.4671C23.0997 14.7671 23.2682 15.174 23.2682 15.5982L23.264 25.1965Z\" stroke=\"black\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M8.86621 9.19943C8.86621 8.77516 9.03475 8.36827 9.33476 8.06826C9.63476 7.76826 10.0417 7.59972 10.4659 7.59972H16.8648C17.3127 6.70387 17.5857 6 18.6533 6H22.2793C23.3458 6 23.6199 6.70387 24.0678 7.59972H26.4673C26.8916 7.59972 27.2985 7.76826 27.5985 8.06826C27.8985 8.36827 28.0671 8.77516 28.0671 9.19943V18.7977C28.0671 19.222 27.8985 19.6289 27.5985 19.9289C27.2985 20.2289 26.8916 20.3974 26.4673 20.3974\" stroke=\"black\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M15.2649 23.5969C17.0319 23.5969 18.4643 22.1644 18.4643 20.3974C18.4643 18.6304 17.0319 17.198 15.2649 17.198C13.4979 17.198 12.0654 18.6304 12.0654 20.3974C12.0654 22.1644 13.4979 23.5969 15.2649 23.5969Z\" stroke=\"black\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M6.4668 11.599V13.9986\" stroke=\"black\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;/svg\u0026g;",
+          "title": "Cámara de reversa"
+        },
+        {
+          "icon": "\u0026l;svg width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M13.1993 6C12.3384 6 11.5741 6.55086 11.3019 7.36754L10.7578 9H4.47852C3.37395 9 2.47852 9.89543 2.47852 11V24C2.47852 25.1046 3.37395 26 4.47852 26H28.4785C29.5831 26 30.4785 25.1046 30.4785 24V11C30.4785 9.89543 29.5831 9 28.4785 9L22.1993 9L21.6551 7.36754C21.3829 6.55086 20.6186 6 19.7578 6H13.1993ZM13.1993 8L19.7578 8L20.3019 9.63246C20.5741 10.4491 21.3384 11 22.1993 11H28.4785V24H4.47852V11H10.7578C11.6186 11 12.3829 10.4491 12.6551 9.63246L13.1993 8ZM13.4785 17C13.4785 15.3431 14.8217 14 16.4785 14C18.1354 14 19.4785 15.3431 19.4785 17C19.4785 18.6569 18.1354 20 16.4785 20C14.8217 20 13.4785 18.6569 13.4785 17ZM16.4785 12C13.7171 12 11.4785 14.2386 11.4785 17C11.4785 19.7614 13.7171 22 16.4785 22C19.2399 22 21.4785 19.7614 21.4785 17C21.4785 14.2386 19.2399 12 16.4785 12Z\" fill=\"#333333\"/\u0026g; \u0026l;/svg\u0026g;",
+          "title": "Cámara frontal"
+        },
+        {
+          "icon": "\u0026l;svg width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path d=\"M16.0353 5H19.3685C19.3685 6.41414 20.4594 9.12121 24.823 8.63636L26.0352 11.6667C23.2069 13.4848 19.2473 18.4545 26.0352 23.7879L23.6109 26.8182C22.8028 26.0101 20.7018 24.6364 18.7624 25.6061C16.823 26.5758 16.3382 27.6263 16.3382 28.0303\" stroke=\"black\" stroke-width=\"1.6\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M16.0352 5H12.7018C12.7018 6.41414 11.6109 9.12121 7.24728 8.63636L6.03516 11.6667C8.86344 13.4848 12.823 18.4545 6.03516 23.7879L8.4594 26.8182C9.26748 26.0101 11.3685 24.6364 13.3079 25.6061C15.2473 26.5758 15.7321 27.6263 15.7321 28.0303\" stroke=\"black\" stroke-width=\"1.6\" stroke-linejoin=\"round\"/\u0026g; \u0026l;/svg\u0026g;",
+          "title": "Vestiduras de cuero"
+        },
+        {
+          "icon": "\u0026l;svg width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path d=\"M13.6352 23H7.23516C6.38646 23 5.57253 22.6839 4.97241 22.1213C4.3723 21.5587 4.03516 20.7956 4.03516 20V8C4.03516 7.20435 4.3723 6.44129 4.97241 5.87868C5.57253 5.31607 6.38646 5 7.23516 5H24.8352C25.6839 5 26.4978 5.31607 27.0979 5.87868C27.698 6.44129 28.0352 7.20435 28.0352 8V18.5\" stroke=\"black\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M20.9522 27.5L16.9106 24.406C16.6495 24.2103 16.4538 23.9484 16.3468 23.6515C16.2398 23.3546 16.2259 23.0351 16.3069 22.731C16.3701 22.493 16.4897 22.2714 16.6566 22.0825C16.8235 21.8936 17.0336 21.7423 17.2712 21.6398C17.5089 21.5373 17.7681 21.4861 18.0297 21.4901C18.2913 21.4942 18.5486 21.5532 18.7826 21.663L20.0349 22.25V17C20.0349 16.6022 20.2034 16.2206 20.5035 15.9393C20.8035 15.658 21.2105 15.5 21.6349 15.5C22.0592 15.5 22.4662 15.658 22.7662 15.9393C23.0663 16.2206 23.2349 16.6022 23.2349 17V20L25.3607 20.332C26.1079 20.4487 26.7867 20.8101 27.2764 21.3519C27.766 21.8938 28.0348 22.5809 28.0349 23.291V27.5\" stroke=\"black\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M4.03516 20H13.6352\" stroke=\"black\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;/svg\u0026g;",
+          "title": "Pantalla Táctil"
+        },
+        {
+          "icon": "\u0026l;svg width=\"33\" height=\"32\" viewBox=\"0 0 33 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path d=\"M22.3205 18.3333C22.3307 17.4563 22.5628 16.5961 22.9953 15.8331C23.4278 15.0701 24.0466 14.4291 24.7939 13.97C24.3181 13.2938 23.6926 12.7366 22.9661 12.342C22.2396 11.9474 21.4317 11.7259 20.6055 11.695C18.8205 11.52 17.1055 12.745 16.2189 12.745C15.3322 12.745 13.8855 11.7183 12.4389 11.7416C11.4665 11.7675 10.5176 12.0456 9.68518 12.5488C8.85275 13.0519 8.16539 13.7628 7.69052 14.6116C5.67219 18.1116 7.17719 23.315 9.14886 26.1616C10.1055 27.55 11.2605 29.1133 12.7655 29.055C14.2705 28.9966 14.7722 28.1216 16.5222 28.1216C18.2722 28.1216 18.7739 29.055 20.3022 29.0316C21.8305 29.0083 22.8572 27.6083 23.8022 26.22C24.4859 25.2284 25.0241 24.1441 25.4005 23C24.4856 22.6105 23.7057 21.9602 23.1579 21.1303C22.6102 20.3004 22.319 19.3276 22.3205 18.3333V18.3333Z\" stroke=\"black\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M19.9293 7.08665C20.9143 5.9226 21.4042 4.41917 21.2943 2.89832C19.7999 3.03799 18.4168 3.74834 17.4327 4.88165C16.9381 5.4399 16.5621 6.09279 16.3275 6.80072C16.0928 7.50865 16.0045 8.25686 16.0677 8.99998C16.8149 8.99824 17.5518 8.82479 18.2213 8.49304C18.8909 8.16129 19.4753 7.68011 19.9293 7.08665Z\" stroke=\"black\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;/svg\u0026g;",
+          "title": "Apple Car Play"
+        },
+        {
+          "icon": "\u0026l;svg width=\"29\" height=\"28\" viewBox=\"0 0 29 28\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14.0674 24.5C19.8664 24.5 24.5674 19.799 24.5674 14C24.5674 11.3449 23.5819 8.92001 21.9568 7.07108L18.9035 10.2409C19.7113 11.2786 20.1924 12.5831 20.1924 14C20.1924 17.3827 17.4501 20.125 14.0674 20.125C10.6846 20.125 7.94238 17.3827 7.94238 14C7.94238 10.6173 10.6846 7.875 14.0674 7.875C15.4021 7.875 16.6371 8.30191 17.6433 9.02664L20.6966 5.85686C18.8889 4.38347 16.5813 3.5 14.0674 3.5C8.26839 3.5 3.56738 8.20101 3.56738 14C3.56738 19.799 8.26839 24.5 14.0674 24.5ZM16.4115 10.3054C15.7339 9.87454 14.9298 9.625 14.0674 9.625C11.6511 9.625 9.69238 11.5838 9.69238 14C9.69238 16.4162 11.6511 18.375 14.0674 18.375C16.4836 18.375 18.4424 16.4162 18.4424 14C18.4424 13.079 18.1578 12.2245 17.6718 11.5196L14.6978 14.607C14.3625 14.9551 13.8086 14.9654 13.4605 14.6302C13.1125 14.2949 13.1021 13.741 13.4374 13.393L16.4115 10.3054ZM26.3174 14C26.3174 20.7655 20.8329 26.25 14.0674 26.25C7.30189 26.25 1.81738 20.7655 1.81738 14C1.81738 7.23451 7.3019 1.75 14.0674 1.75C20.8329 1.75 26.3174 7.23451 26.3174 14Z\" fill=\"#333333\"/\u0026g; \u0026l;/svg\u0026g;",
+          "title": "Sistema GPS"
+        }
+      ],
+      "isActive": true,
+      "title": "Equipamiento destacado"
+    },
+    "media": {
+      "badges": {
+        "media": [],
+        "onCorner": false
+      },
+      "details": {
+        "disclaimer": "* El vehículo puede presentar otros detalles estéticos menores. En esta sección, solo se muestran los más relevantes.",
+        "galleryTab": "Imágenes",
+        "lang": "es",
+        "name": "Nissan Maxima Exclusive",
+        "quality": "h",
+        "showDisclaimer": true,
+        "spin": null,
+        "version": "0.8",
+        "view360Tab": "Ver 360"
+      },
+      "gallery": {
+        "icon": {
+          "width": "2rem"
+        },
+        "media": [
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": true,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-frontal-lateral-piloto-lejana-1607461718373.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-frontal-lateral-piloto-lejana-1607461718373.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-frontal-lateral-piloto-cercana-1607461717063.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-frontal-lateral-piloto-cercana-1607461717063.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-frontal-1607461715555.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-frontal-1607461715555.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-frontal-lateral-copiloto-1607461714115.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-frontal-lateral-copiloto-1607461714115.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-lateral-copiloto-1607461712797.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-lateral-copiloto-1607461712797.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-trasero-lateral-piloto-1607461711477.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-trasero-lateral-piloto-1607461711477.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-trasera-1607461710136.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-trasera-1607461710136.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-trasera-lateral-copiloto-1607461708705.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-trasera-lateral-copiloto-1607461708705.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-lateral-piloto-1607461707353.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-lateral-piloto-1607461707353.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-llanta-piloto-1607461705434.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-llanta-piloto-1607461705434.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-llanta-trasera-piloto-1607461704008.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-llanta-trasera-piloto-1607461704008.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-llanta-copiloto-1607461702596.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-llanta-copiloto-1607461702596.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-llanta-trasera-copiloto-1607461701154.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-llanta-trasera-copiloto-1607461701154.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-puerta-piloto-1607461699717.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-puerta-piloto-1607461699717.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-puerta-abierta-piloto-1607461698335.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-puerta-abierta-piloto-1607461698335.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-puerta-trasera-piloto-1607461696907.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-puerta-trasera-piloto-1607461696907.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-puerta-abierta-trasera-piloto-1607461695515.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-puerta-abierta-trasera-piloto-1607461695515.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-puerta-copiloto-1607461694114.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-puerta-copiloto-1607461694114.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-puerta-abierta-copiloto-1607461692704.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-puerta-abierta-copiloto-1607461692704.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-puerta-trasera-copiloto-1607461691314.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-puerta-trasera-copiloto-1607461691314.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-puerta-abierta-trasera-copiloto-1607461689897.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-puerta-abierta-trasera-copiloto-1607461689897.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-motor-1607461688515.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-motor-1607461688515.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-vin-del-auto-1607461687157.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-vin-del-auto-1607461687157.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-tablero-frontal-1607461685856.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-tablero-frontal-1607461685856.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-consola-1607461684492.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-consola-1607461684492.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-volante-1607461683027.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-volante-1607461683027.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-palanca-1607461681668.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-palanca-1607461681668.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-camara-de-reversa-(cuado-aplique)-1607461680099.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-camara-de-reversa-(cuado-aplique)-1607461680099.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-asientos-trasero-copiloto-1607461678003.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-asientos-trasero-copiloto-1607461678003.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-cajuela-abierta-1607461676690.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-cajuela-abierta-1607461676690.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-llanta-de-repuesto-1607461675117.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-llanta-de-repuesto-1607461675117.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/28939/nissan-maxima-exclusive2017-controles-1607461673689.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/28939/nissan-maxima-exclusive2017-controles-1607461673689.jpg"
+              }
+            ]
+          }
+        ],
+        "text": ""
+      },
+      "thumbnails": {
+        "media": [
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-frontal-lateral-piloto-lejana-1607461718373.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-frontal-lateral-piloto-cercana-1607461717063.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-frontal-1607461715555.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-frontal-lateral-copiloto-1607461714115.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-lateral-copiloto-1607461712797.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-trasero-lateral-piloto-1607461711477.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-trasera-1607461710136.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-trasera-lateral-copiloto-1607461708705.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-lateral-piloto-1607461707353.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-llanta-piloto-1607461705434.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-llanta-trasera-piloto-1607461704008.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-llanta-copiloto-1607461702596.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-llanta-trasera-copiloto-1607461701154.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-puerta-piloto-1607461699717.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-puerta-abierta-piloto-1607461698335.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-puerta-trasera-piloto-1607461696907.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-puerta-abierta-trasera-piloto-1607461695515.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-puerta-copiloto-1607461694114.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-puerta-abierta-copiloto-1607461692704.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-puerta-trasera-copiloto-1607461691314.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-puerta-abierta-trasera-copiloto-1607461689897.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-motor-1607461688515.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-vin-del-auto-1607461687157.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-tablero-frontal-1607461685856.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-consola-1607461684492.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-volante-1607461683027.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-palanca-1607461681668.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-camara-de-reversa-(cuado-aplique)-1607461680099.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-asientos-trasero-copiloto-1607461678003.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-cajuela-abierta-1607461676690.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-llanta-de-repuesto-1607461675117.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Nissan Maxima Exclusive Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/28939/nissan-maxima-exclusive2017-controles-1607461673689.jpg",
+              "width": 128
+            }
+          }
+        ],
+        "text": ""
+      }
+    },
+    "seo": {
+      "canonical": "https://www.kavak.com/mx/usado/nissan-maxima-exclusive-sedan-2017",
+      "description": "Conduce con estilo en el Nissan Maxima Exclusive Sedan 2017, comprando uno de nuestros autos usados a la venta. Certificado, Inspeccionado y con Garantía Kavak.",
+      "hreflang": [
+        {
+          "hreflang": "es-MX",
+          "url": "https://www.kavak.com/mx"
+        },
+        {
+          "hreflang": "es-AR",
+          "url": "https://www.kavak.com/ar"
+        }
+      ],
+      "image": "https://images.kavak.services/images/28939/nissan-maxima-exclusive2017-frontal-lateral-piloto-lejana-1607461718373.jpg",
+      "locale": "es-MX",
+      "robots": "index, follow",
+      "siteName": "Kavak",
+      "title": "Autos Nissan Maxima Exclusive Sedan 2017 usados | KAVAK México",
+      "twitterCreator": "@kavakmx"
+    },
+    "showCalculator": false,
+    "tradeInBanner": {
+      "button": {
+        "dataCy": "btn-sell-car-continue",
+        "label": "Vender auto",
+        "url": "https://www.kavak.com/mx/vender-mi-auto"
+      },
+      "image": {
+        "global": true,
+        "img": {
+          "alt": "Cambia o vende tu auto en 1 día ",
+          "draggable": false,
+          "height": 308,
+          "loading": "lazy",
+          "width": 280
+        },
+        "sources": [
+          {
+            "default": true,
+            "srcset": "https://images.kavak.services/mx/assets/images/sellcar/png/trade_in_banner_sm.png",
+            "type": "image/png"
+          },
+          {
+            "default": false,
+            "media": "(min-width:992px)",
+            "srcset": "https://images.kavak.services/mx/assets/images/sellcar/png/trade_in_banner_lg.png",
+            "type": "image/png"
+          }
+        ]
+      },
+      "isActive": true,
+      "itemList": [
+        {
+          "icon": {
+            "src": "\u0026l;svg width=\"25\" height=\"24\" viewBox=\"0 0 25 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g;\n\u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M17.6349 7.82809C17.3191 7.56013 16.8458 7.59897 16.5778 7.91483L10.5249 15.0498C10.4344 15.1565 10.2738 15.1681 10.1689 15.0755L7.74596 12.9376C7.43536 12.6636 6.96141 12.6932 6.68736 13.0038C6.41331 13.3144 6.44293 13.7883 6.75352 14.0624L9.17646 16.2003C9.91116 16.8485 11.0349 16.7673 11.6688 16.0202L17.7217 8.8852C17.9896 8.56934 17.9508 8.09605 17.6349 7.82809Z\" fill=\"#333333\"/\u0026g;\n\u0026l;/svg\u0026g;"
+          },
+          "title": "Obtén un bono extra al vendernos tu auto y cambiarlo por un Kavak"
+        },
+        {
+          "icon": {
+            "src": "\u0026l;svg width=\"25\" height=\"24\" viewBox=\"0 0 25 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g;\n\u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M17.6349 7.82809C17.3191 7.56013 16.8458 7.59897 16.5778 7.91483L10.5249 15.0498C10.4344 15.1565 10.2738 15.1681 10.1689 15.0755L7.74596 12.9376C7.43536 12.6636 6.96141 12.6932 6.68736 13.0038C6.41331 13.3144 6.44293 13.7883 6.75352 14.0624L9.17646 16.2003C9.91116 16.8485 11.0349 16.7673 11.6688 16.0202L17.7217 8.8852C17.9896 8.56934 17.9508 8.09605 17.6349 7.82809Z\" fill=\"#333333\"/\u0026g;\n\u0026l;/svg\u0026g;"
+          },
+          "title": "Plan de Pagos Pre aprobado*"
+        },
+        {
+          "icon": {
+            "src": "\u0026l;svg width=\"25\" height=\"24\" viewBox=\"0 0 25 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g;\n\u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M17.6349 7.82809C17.3191 7.56013 16.8458 7.59897 16.5778 7.91483L10.5249 15.0498C10.4344 15.1565 10.2738 15.1681 10.1689 15.0755L7.74596 12.9376C7.43536 12.6636 6.96141 12.6932 6.68736 13.0038C6.41331 13.3144 6.44293 13.7883 6.75352 14.0624L9.17646 16.2003C9.91116 16.8485 11.0349 16.7673 11.6688 16.0202L17.7217 8.8852C17.9896 8.56934 17.9508 8.09605 17.6349 7.82809Z\" fill=\"#333333\"/\u0026g;\n\u0026l;/svg\u0026g;"
+          },
+          "title": "Intercambiamos los autos al mismo tiempo."
+        }
+      ],
+      "title": "Cambia tu auto con más beneficios"
+    },
+    "valueProposition": {
+      "isActive": true,
+      "list": [
+        {
+          "icon": "\u0026l;svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4.50001 3C3.67355 3 3 3.6681 3 4.4985L3.00001 9.75003C3.00001 12.8886 3.79007 14.9185 5.05221 16.4117C6.10328 17.6552 7.4624 18.4874 8.74 19.2697L8.74087 19.2703C8.94743 19.3967 9.15185 19.5219 9.3525 19.6473L9.3701 19.6583L11.2766 20.7079C11.727 20.9558 12.273 20.9558 12.7234 20.7079L14.6299 19.6583L14.6475 19.6473C14.8484 19.5217 15.0531 19.3964 15.26 19.2697C16.5376 18.4874 17.8967 17.6552 18.9478 16.4117C20.2099 14.9185 21 12.8886 21 9.75V4.5C21 3.67157 20.3284 3 19.5 3H4.50001ZM19.5 4.5H4.50001L4.50001 9.75003C4.50001 12.6115 5.20994 14.2747 6.19779 15.4434C7.0805 16.4877 8.20918 17.1815 9.49611 17.9726C9.70337 18.1 9.91473 18.23 10.1298 18.3643L12 19.3939L13.8702 18.3643C14.0853 18.23 14.2966 18.1 14.5039 17.9726C15.7908 17.1815 16.9195 16.4877 17.8022 15.4434C18.7901 14.2747 19.5 12.6114 19.5 9.75V4.5ZM15.15 7.80008C15.3985 7.46871 15.8686 7.40155 16.2 7.65008C16.5313 7.89861 16.5985 8.36871 16.35 8.70008L12.3688 14.0083C11.8211 14.7385 10.7536 14.8144 10.1081 14.1689L8.46962 12.5304C8.17673 12.2375 8.17673 11.7626 8.46962 11.4698C8.76252 11.1769 9.23739 11.1769 9.53028 11.4698L11.1688 13.1083L15.15 7.80008Z\" fill=\"#009F66\"/\u0026g; \u0026l;/svg\u0026g;",
+          "iconColor": "success",
+          "iconWidth": "1.125rem",
+          "id": 41,
+          "title": "3 meses de garantía mecánica."
+        },
+        {
+          "icon": "\u0026l;svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M13.4037 3.35963C14.3799 2.99089 15.4401 2.90356 16.4635 3.10758C16.487 3.11226 16.5103 3.11807 16.5332 3.12498C16.7737 3.19743 16.9954 3.32185 17.1825 3.48944C17.3697 3.65703 17.5177 3.8637 17.6162 4.09484C17.7361 4.37647 17.6728 4.70272 17.4564 4.91912L14.9211 7.45352C14.8272 7.5503 14.7748 7.67976 14.7748 7.8145C14.7748 7.94382 14.8231 8.06827 14.9099 8.16363L15.8522 9.00644C15.866 9.01876 15.8793 9.03158 15.8921 9.04489C15.9406 9.09511 15.9986 9.13507 16.0629 9.16238C16.1271 9.18968 16.1963 9.20375 16.2661 9.20375C16.3359 9.20375 16.4051 9.18968 16.4693 9.16238C16.5336 9.13507 16.5916 9.09511 16.6401 9.04489L16.6497 9.03504L19.1883 6.49741C19.4336 6.25222 19.8149 6.20718 20.1106 6.38847C20.3155 6.51413 20.4917 6.68148 20.6278 6.87967C20.7632 7.07699 20.8559 7.30047 20.8997 7.53574C21.0945 8.54927 21.0044 9.59694 20.6396 10.5624C20.2744 11.5288 19.6483 12.3749 18.8309 13.0067C18.0135 13.6385 17.0368 14.0313 16.0095 14.1414C15.1614 14.2323 14.3062 14.1276 13.5088 13.8383L6.93654 20.3963C6.74919 20.5868 6.52585 20.7384 6.27947 20.842C6.03155 20.9463 5.76531 21 5.49636 21C5.22741 21 4.96116 20.9463 4.71324 20.842C4.46677 20.7383 4.24334 20.5867 4.05594 20.396L3.60424 19.9445C3.4135 19.7572 3.26185 19.5338 3.15811 19.2874C3.05376 19.0395 3 18.7732 3 18.5043C3 18.2353 3.05376 17.9691 3.15811 17.7212C3.26209 17.4741 3.41422 17.2503 3.60559 17.0627C3.60627 17.0621 3.60696 17.0614 3.60764 17.0607L10.1683 10.5624C9.86337 9.76555 9.74465 8.90682 9.82462 8.05242C9.92185 7.01362 10.3089 6.023 10.9417 5.19335C11.5745 4.3637 12.4275 3.72836 13.4037 3.35963ZM15.7376 4.51629C15.1273 4.46155 14.5105 4.54502 13.9338 4.76286C13.2202 5.03237 12.5968 5.49673 12.1344 6.10302C11.672 6.70931 11.3891 7.43318 11.3181 8.19222C11.247 8.95125 11.3906 9.71499 11.7325 10.3965C11.878 10.6865 11.8204 11.0373 11.5899 11.2656L4.65615 18.1334C4.60671 18.1818 4.56742 18.2394 4.54061 18.3031C4.51381 18.3668 4.5 18.4352 4.5 18.5043C4.5 18.5733 4.51381 18.6417 4.54061 18.7054C4.56742 18.7691 4.60669 18.8268 4.65614 18.8751L4.66216 18.881L5.12502 19.3438C5.17337 19.3932 5.23109 19.4325 5.29486 19.4593C5.35864 19.4862 5.42714 19.5 5.49636 19.5C5.56557 19.5 5.63407 19.4862 5.69785 19.4593C5.76163 19.4325 5.81938 19.3932 5.86773 19.3438L5.8741 19.3373L12.8043 12.4223C13.0289 12.1982 13.3702 12.1397 13.6566 12.2761C14.3389 12.601 15.0981 12.7305 15.8496 12.6499C16.6012 12.5694 17.3156 12.2821 17.9135 11.8199C18.5114 11.3577 18.9694 10.7389 19.2364 10.0322C19.4439 9.48309 19.5299 8.89765 19.4909 8.31588L17.7145 10.0916C17.5272 10.2844 17.3033 10.4378 17.0559 10.5429C16.8061 10.6491 16.5375 10.7038 16.2661 10.7038C15.9947 10.7038 15.7261 10.6491 15.4763 10.5429C15.236 10.4408 15.0179 10.2931 14.834 10.1081L13.8876 9.26169C13.8754 9.25077 13.8635 9.23946 13.8521 9.22776C13.4821 8.85041 13.2748 8.34301 13.2748 7.8145C13.2748 7.28598 13.4821 6.77859 13.8521 6.40123L13.8573 6.39588L15.7376 4.51629Z\" fill=\"#009F66\"/\u0026g;\u0026l;/svg\u0026g;",
+          "iconColor": "success",
+          "iconWidth": "1.125rem",
+          "id": 42,
+          "title": "Inspección de 240 puntos."
+        },
+        {
+          "icon": "\u0026l;svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path d=\"M8.64917 13.6556V3.52441H3.55271C2.82994 3.57841 2.15895 3.8876 1.68289 4.38602C1.20682 4.88444 0.96337 5.53262 1.00447 6.19229V12.7691C0.991642 12.989 1.07359 13.2047 1.23285 13.3703C1.3921 13.5359 1.61606 13.6383 1.85697 13.6556H3.32105\" stroke=\"#009F66\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M5.40621 15.555C6.55768 15.555 7.49113 14.7046 7.49113 13.6555C7.49113 12.6063 6.55768 11.7559 5.40621 11.7559C4.25474 11.7559 3.32129 12.6063 3.32129 13.6555C3.32129 14.7046 4.25474 15.555 5.40621 15.555Z\" stroke=\"#009F66\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M16.294 15.555C17.4454 15.555 18.3789 14.7046 18.3789 13.6555C18.3789 12.6063 17.4454 11.7559 16.294 11.7559C15.1425 11.7559 14.209 12.6063 14.209 13.6555C14.209 14.7046 15.1425 15.555 16.294 15.555Z\" stroke=\"#009F66\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M1.00494 7.32395H5.06359C5.17015 7.32626 5.27611 7.30884 5.37507 7.27275C5.47403 7.23665 5.56391 7.18263 5.63928 7.11396C5.71466 7.04529 5.77394 6.96339 5.81356 6.87323C5.85317 6.78307 5.87229 6.68653 5.86975 6.58944V3.5332\" stroke=\"#009F66\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M7.49127 13.6553H14.2093\" stroke=\"#009F66\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M21.8539 9.43419H8.64941V2.26639C8.64941 1.93053 8.79585 1.60841 9.05652 1.37092C9.31718 1.13342 9.67072 1 10.0394 1H20.464C20.8326 1 21.1861 1.13342 21.4468 1.37092C21.7075 1.60841 21.8539 1.93053 21.8539 2.26639V9.43419Z\" stroke=\"#009F66\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M18.3785 13.6559H20.4634C20.832 13.6559 21.1856 13.5225 21.4462 13.285C21.7069 13.0475 21.8533 12.7254 21.8533 12.3895V9.43457\" stroke=\"#009F66\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;/svg\u0026g;",
+          "iconColor": "success",
+          "iconWidth": "1.125rem",
+          "id": 43,
+          "title": "Envío a todo el país. Este servicio tiene un costo adicional"
+        },
+        {
+          "icon": "\u0026l;svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9 3.75C9 3.33579 8.66421 3 8.25 3C7.83579 3 7.5 3.33579 7.5 3.75V4.5H4.5C3.67157 4.5 3 5.17157 3 6V11.25V19.5C3 20.3284 3.67157 21 4.5 21H19.5C20.3284 21 21 20.3284 21 19.5V11.25V6C21 5.17157 20.3284 4.5 19.5 4.5H16.5V3.75C16.5 3.33579 16.1642 3 15.75 3C15.3358 3 15 3.33579 15 3.75V4.5H9V3.75ZM15 6L9 6V6.75C9 7.16421 8.66421 7.5 8.25 7.5C7.83579 7.5 7.5 7.16421 7.5 6.75V6H4.5V10.5H19.5V6H16.5V6.75C16.5 7.16421 16.1642 7.5 15.75 7.5C15.3358 7.5 15 7.16421 15 6.75V6ZM4.5 19.5V12H19.5V19.5H4.5Z\" fill=\"#009F66\"/\u0026g; \u0026l;/svg\u0026g;",
+          "iconColor": "success",
+          "iconWidth": "1.125rem",
+          "id": 44,
+          "title": "Prueba de 7 días o 300 km."
+        },
+        {
+          "icon": "\u0026l;svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path d=\"M19.6585 14.2217H1\" stroke=\"#009F66\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M4.10976 17.0553L1 14.222L4.10976 11.3887\" stroke=\"#009F66\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M19.6585 3.83301H1\" stroke=\"#009F66\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M16.5488 6.66667L19.6585 3.83333L16.5488 1\" stroke=\"#009F66\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;/svg\u0026g;",
+          "iconColor": "success",
+          "iconWidth": "1.125rem",
+          "id": 45,
+          "title": "Descuento por intercambio. Deja el tuyo y llévate este por mucho menos."
+        }
+      ]
+    }
+  }
+}

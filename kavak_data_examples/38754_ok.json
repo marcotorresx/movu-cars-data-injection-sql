@@ -1,0 +1,3001 @@
+{
+  "id": "38754",
+  "status": "ok",
+  "data": {
+    "algoliaIndexName": "olimpo-mx",
+    "basicFeatures": {
+      "items": [
+        {
+          "code": "traction_type",
+          "cta": "Entendido",
+          "detail": "Es un sistema del motor que da el impulso a las llantas para que el auto avance. La diferencia está en que puede aplicarse a las dos ruedas delanteras (ideal para la ciudad), a las dos traseras (para recorrer ciudad y carretera, pero no se lleva bien con los caminos resbaladizos), o a las cuatro (perfecta para terrenos difíciles y extremos, por lo que generalmente se usa en vehículos de trabajo). ",
+          "name": "Tracción",
+          "value": "4x2"
+        },
+        {
+          "code": "transmission_type",
+          "name": "Transmisión",
+          "value": "Automático"
+        },
+        {
+          "code": "region",
+          "name": "Ciudad",
+          "value": "Puebla"
+        },
+        {
+          "code": "name",
+          "name": "Sucursal",
+          "url": "https://www.google.com/maps/dir/?api=1\u0026a;destination=19.0098556,-98.2445946\u0026a;travelmode=driving",
+          "value": "Kavak Las Torres"
+        },
+        {
+          "code": "car_id",
+          "name": "Stock ID",
+          "value": "38754"
+        },
+        {
+          "code": "coordinate",
+          "name": "Estacionado en",
+          "value": "H-28"
+        },
+        {
+          "code": "oil_consume",
+          "cta": "Entendido",
+          "detail": "Es el número de kilómetros que puede recorrer un auto por cada litro de combustible, puede variar dependiendo si se recorre carretera, ciudad o la combinación de las dos.",
+          "name": "Consumo de Combustible (KM/L)",
+          "value": "9.5"
+        }
+      ],
+      "title": "Información básica"
+    },
+    "breadcrumbs": [
+      {
+        "text": "COMPRA DE AUTOS",
+        "url": "https://www.kavak.com/mx/seminuevos"
+      },
+      {
+        "text": "Infiniti",
+        "url": "https://www.kavak.com/mx/seminuevos/?keyword=infiniti"
+      },
+      {
+        "text": "Q50",
+        "url": "https://www.kavak.com/mx/seminuevos/?keyword=infiniti_q50"
+      },
+      {
+        "current": true,
+        "text": "Sport Sedan 2017"
+      }
+    ],
+    "buyBox": {
+      "ctaBook": {
+        "dataCy": "btn-schedule-continue",
+        "hl": "https://www.kavak.com/mx/iniciar-sesion-telefono?redirectUrl=proceso-compra\u0026a;inventoryId=38754",
+        "label": "Apartar o Agendar visita",
+        "url": "https://www.kavak.com/mx/proceso-compra/?inventoryId=38754"
+      },
+      "ctaFinancing": {
+        "dataCy": "btn-payment-simulation-continue",
+        "icon": "\u0026l;svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g;\u0026l;rect x=\"0.75\" y=\"0.75\" width=\"18.5\" height=\"18.5\" rx=\"2.25\" stroke=\"#3374DB\" stroke-width=\"1.5\"/\u0026g;\u0026l;line y1=\"10.25\" x2=\"20\" y2=\"10.25\" stroke=\"#3374DB\" stroke-width=\"1.5\"/\u0026g;\u0026l;line x1=\"10.3242\" y1=\"3.27835e-08\" x2=\"10.3242\" y2=\"20\" stroke=\"#3374DB\" stroke-width=\"1.5\"/\u0026g;\u0026l;line x1=\"13.2832\" y1=\"5.5\" x2=\"16.2832\" y2=\"5.5\" stroke=\"#3374DB\" stroke-linecap=\"round\"/\u0026g;\u0026l;line x1=\"13.2832\" y1=\"14.5\" x2=\"16.2832\" y2=\"14.5\" stroke=\"#3374DB\" stroke-linecap=\"round\"/\u0026g;\u0026l;line x1=\"3.92188\" y1=\"5.5\" x2=\"7.92188\" y2=\"5.5\" stroke=\"#3374DB\" stroke-linecap=\"round\"/\u0026g;\u0026l;line x1=\"6.00098\" y1=\"3.5\" x2=\"6.00098\" y2=\"7.5\" stroke=\"#3374DB\" stroke-linecap=\"round\"/\u0026g;\u0026l;line x1=\"4.4825\" y1=\"13.0857\" x2=\"7.31092\" y2=\"15.9141\" stroke=\"#3374DB\" stroke-linecap=\"round\"/\u0026g;\u0026l;line x1=\"7.31055\" y1=\"13.0858\" x2=\"4.48212\" y2=\"15.9142\" stroke=\"#3374DB\" stroke-linecap=\"round\"/\u0026g;\u0026l;circle cx=\"14.7832\" cy=\"13\" r=\"0.5\" fill=\"#3374DB\"/\u0026g;\u0026l;circle cx=\"14.7832\" cy=\"16\" r=\"0.5\" fill=\"#3374DB\"/\u0026g;\u0026l;/svg\u0026g;",
+        "label": "Simula tu plan de pagos",
+        "url": ""
+      },
+      "filters": [
+        {
+          "label": "Año",
+          "value": 2017
+        },
+        {
+          "label": "Versión",
+          "value": "Sport"
+        },
+        {
+          "label": "Transmisión",
+          "value": "Automático"
+        }
+      ],
+      "isOnlineFirst": true,
+      "km": "70,906 km",
+      "name": "Infiniti Q50 Sport Sedan 2017",
+      "price": [
+        {
+          "currency": "$",
+          "period": "/ mes",
+          "price": "440,999",
+          "pricePeriod": "5,621",
+          "subtitle": "Contado: ",
+          "title": "Desde"
+        }
+      ],
+      "regionName": "Puebla",
+      "showShareButton": true,
+      "titleClipboard": "Enlace copiado",
+      "titleShare": "Compartir este auto"
+    },
+    "checkout": {
+      "dynamic": {
+        "financingOnly": false,
+        "price": 440999,
+        "promotion": null,
+        "warehouse": {
+          "address": "Blvd. Municipio Libre 1910, Ex Hacienda Mayorazgo, 72480 Puebla, Puebla",
+          "id": 35,
+          "isHome": false,
+          "isHubOnline": false,
+          "latitude": "19.0098556",
+          "longitude": "-98.2445946",
+          "name": "Kavak Las Torres",
+          "region": "Puebla"
+        }
+      },
+      "static": {
+        "allowAppointment": true,
+        "carUrl": "https://www.kavak.com/mx/usado/infiniti-q50-sport-sedan-2017?id=38754",
+        "carYear": 2017,
+        "exteriorColor": "Negro",
+        "id": 38754,
+        "km": "70906",
+        "make": "Infiniti",
+        "media": {
+          "externalDimples": [
+            {
+              "description": null,
+              "media": "images/38754/dimples/exterior-113-16138591145487.jpg",
+              "mediaType": "image",
+              "order": 54,
+              "position": {
+                "left": 252,
+                "top": 423
+              },
+              "thumbnail": "images/38754/dimples/exterior-113-16138591145487.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/38754/dimples/exterior-114-16138591191082.jpg",
+              "mediaType": "image",
+              "order": 54,
+              "position": {
+                "left": 158,
+                "top": 438
+              },
+              "thumbnail": "images/38754/dimples/exterior-114-16138591191082.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/38754/dimples/exterior-115-16138591233571.jpg",
+              "mediaType": "image",
+              "order": 54,
+              "position": {
+                "left": 166,
+                "top": 380
+              },
+              "thumbnail": "images/38754/dimples/exterior-115-16138591233571.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/38754/dimples/exterior-116-16138591278015.jpg",
+              "mediaType": "image",
+              "order": 54,
+              "position": {
+                "left": 158,
+                "top": 302
+              },
+              "thumbnail": "images/38754/dimples/exterior-116-16138591278015.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/38754/dimples/exterior-117-16138591325377.jpg",
+              "mediaType": "image",
+              "order": 54,
+              "position": {
+                "left": 81,
+                "top": 402
+              },
+              "thumbnail": "images/38754/dimples/exterior-117-16138591325377.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/38754/dimples/exterior-118-16138591469088.jpg",
+              "mediaType": "image",
+              "order": 54,
+              "position": {
+                "left": 53,
+                "top": 274
+              },
+              "thumbnail": "images/38754/dimples/exterior-118-16138591469088.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/38754/dimples/exterior-119-16138591521522.jpg",
+              "mediaType": "image",
+              "order": 54,
+              "position": {
+                "left": 42,
+                "top": 194
+              },
+              "thumbnail": "images/38754/dimples/exterior-119-16138591521522.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/38754/dimples/exterior-120-16138591568520.jpg",
+              "mediaType": "image",
+              "order": 36,
+              "position": {
+                "left": 17,
+                "top": 119
+              },
+              "thumbnail": "images/38754/dimples/exterior-120-16138591568520.jpg",
+              "title": "Rayón Ligero"
+            },
+            {
+              "description": null,
+              "media": "images/38754/dimples/exterior-121-16138591616943.jpg",
+              "mediaType": "image",
+              "order": 36,
+              "position": {
+                "left": 26,
+                "top": 320
+              },
+              "thumbnail": "images/38754/dimples/exterior-121-16138591616943.jpg",
+              "title": "Rayón Ligero"
+            },
+            {
+              "description": null,
+              "media": "images/38754/dimples/exterior-122-16138591754810.jpg",
+              "mediaType": "image",
+              "order": 54,
+              "position": {
+                "left": 63,
+                "top": 47
+              },
+              "thumbnail": "images/38754/dimples/exterior-122-16138591754810.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/38754/dimples/exterior-123-16138591800528.jpg",
+              "mediaType": "image",
+              "order": 54,
+              "position": {
+                "left": 166,
+                "top": 43
+              },
+              "thumbnail": "images/38754/dimples/exterior-123-16138591800528.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/38754/dimples/exterior-124-16138591847544.jpg",
+              "mediaType": "image",
+              "order": 54,
+              "position": {
+                "left": 154,
+                "top": 137
+              },
+              "thumbnail": "images/38754/dimples/exterior-124-16138591847544.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/38754/dimples/exterior-125-16138591907025.jpg",
+              "mediaType": "image",
+              "order": 54,
+              "position": {
+                "left": 263,
+                "top": 33
+              },
+              "thumbnail": "images/38754/dimples/exterior-125-16138591907025.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/38754/dimples/exterior-126-16138592080304.jpg",
+              "mediaType": "image",
+              "order": 54,
+              "position": {
+                "left": 262,
+                "top": 194
+              },
+              "thumbnail": "images/38754/dimples/exterior-126-16138592080304.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/38754/dimples/exterior-127-16138592126368.jpg",
+              "mediaType": "image",
+              "order": 54,
+              "position": {
+                "left": 252,
+                "top": 282
+              },
+              "thumbnail": "images/38754/dimples/exterior-127-16138592126368.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/38754/dimples/exterior-128-16138592174362.jpg",
+              "mediaType": "image",
+              "order": 36,
+              "position": {
+                "left": 282,
+                "top": 327
+              },
+              "thumbnail": "images/38754/dimples/exterior-128-16138592174362.jpg",
+              "title": "Rayón Ligero"
+            },
+            {
+              "description": null,
+              "media": "images/38754/dimples/exterior-129-16138592226504.jpg",
+              "mediaType": "image",
+              "order": 36,
+              "position": {
+                "left": 284,
+                "top": 122
+              },
+              "thumbnail": "images/38754/dimples/exterior-129-16138592226504.jpg",
+              "title": "Rayón Ligero"
+            },
+            {
+              "description": null,
+              "media": "images/38754/dimples/exterior-130-16138592781648.jpg",
+              "mediaType": "image",
+              "order": 36,
+              "position": {
+                "left": 242,
+                "top": 188
+              },
+              "thumbnail": "images/38754/dimples/exterior-130-16138592781648.jpg",
+              "title": "Rayón Ligero"
+            }
+          ],
+          "internalDimples": [
+            {
+              "description": null,
+              "media": "images/38754/dimples/interior-1-16138498678668.jpg",
+              "mediaType": "image",
+              "order": 43,
+              "position": {
+                "left": 144,
+                "top": 167
+              },
+              "thumbnail": "images/38754/dimples/interior-1-16138498678668.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/38754/dimples/interior-105-16138583531745.jpg",
+              "mediaType": "image",
+              "order": 46,
+              "position": {
+                "left": 160,
+                "top": 440
+              },
+              "thumbnail": "images/38754/dimples/interior-105-16138583531745.jpg",
+              "title": "Rayón Ligero"
+            },
+            {
+              "description": null,
+              "media": "images/38754/dimples/interior-106-16138583619707.jpg",
+              "mediaType": "image",
+              "order": 43,
+              "position": {
+                "left": 196,
+                "top": 434
+              },
+              "thumbnail": "images/38754/dimples/interior-106-16138583619707.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/38754/dimples/interior-107-16138584913705.jpg",
+              "mediaType": "image",
+              "order": 46,
+              "position": {
+                "left": 216,
+                "top": 243
+              },
+              "thumbnail": "images/38754/dimples/interior-107-16138584913705.jpg",
+              "title": "Rayón Ligero"
+            },
+            {
+              "description": null,
+              "media": "images/38754/dimples/interior-108-16138584974311.jpg",
+              "mediaType": "image",
+              "order": 43,
+              "position": {
+                "left": 195,
+                "top": 231
+              },
+              "thumbnail": "images/38754/dimples/interior-108-16138584974311.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/38754/dimples/interior-109-16138585257627.jpg",
+              "mediaType": "image",
+              "order": 46,
+              "position": {
+                "left": 82,
+                "top": 219
+              },
+              "thumbnail": "images/38754/dimples/interior-109-16138585257627.jpg",
+              "title": "Rayón Ligero"
+            },
+            {
+              "description": null,
+              "media": "images/38754/dimples/interior-110-16138585330791.jpg",
+              "mediaType": "image",
+              "order": 43,
+              "position": {
+                "left": 124,
+                "top": 183
+              },
+              "thumbnail": "images/38754/dimples/interior-110-16138585330791.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/38754/dimples/interior-111-16138585385309.jpg",
+              "mediaType": "image",
+              "order": 43,
+              "position": {
+                "left": 160,
+                "top": 201
+              },
+              "thumbnail": "images/38754/dimples/interior-111-16138585385309.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/38754/dimples/interior-112-16138585552322.jpg",
+              "mediaType": "image",
+              "order": 43,
+              "position": {
+                "left": 112,
+                "top": 219
+              },
+              "thumbnail": "images/38754/dimples/interior-112-16138585552322.jpg",
+              "title": "Detalles Varios"
+            },
+            {
+              "description": null,
+              "media": "images/38754/dimples/interior-131-16138593573441.jpg",
+              "mediaType": "image",
+              "order": 43,
+              "position": {
+                "left": 160,
+                "top": 184
+              },
+              "thumbnail": "images/38754/dimples/interior-131-16138593573441.jpg",
+              "title": "Detalles Varios"
+            }
+          ],
+          "inventoryMedia": [
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-frontal-lateral-piloto-lejana-1614724711427.jpg",
+              "mediaType": "image",
+              "order": 1,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-frontal-lateral-piloto-lejana-1614724711427.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-frontal-lateral-piloto-cercana-1614724707414.jpg",
+              "mediaType": "image",
+              "order": 2,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-frontal-lateral-piloto-cercana-1614724707414.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-frontal-1614724704637.jpg",
+              "mediaType": "image",
+              "order": 3,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-frontal-1614724704637.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-frontal-lateral-copiloto-1614724701618.jpg",
+              "mediaType": "image",
+              "order": 4,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-frontal-lateral-copiloto-1614724701618.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-lateral-copiloto-1614724699281.jpg",
+              "mediaType": "image",
+              "order": 5,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-lateral-copiloto-1614724699281.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-trasero-lateral-piloto-1614724696395.jpg",
+              "mediaType": "image",
+              "order": 6,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-trasero-lateral-piloto-1614724696395.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-trasera-1614724693826.jpg",
+              "mediaType": "image",
+              "order": 7,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-trasera-1614724693826.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-trasera-lateral-copiloto-1614724687301.jpg",
+              "mediaType": "image",
+              "order": 8,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-trasera-lateral-copiloto-1614724687301.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-lateral-piloto-1614724684314.jpg",
+              "mediaType": "image",
+              "order": 9,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-lateral-piloto-1614724684314.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-llanta-piloto-1614724680828.jpg",
+              "mediaType": "image",
+              "order": 10,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-llanta-piloto-1614724680828.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-llanta-trasera-piloto-1614724679069.jpg",
+              "mediaType": "image",
+              "order": 11,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-llanta-trasera-piloto-1614724679069.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-llanta-copiloto-1614724676036.jpg",
+              "mediaType": "image",
+              "order": 12,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-llanta-copiloto-1614724676036.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-llanta-trasera-copiloto-1614724673377.jpg",
+              "mediaType": "image",
+              "order": 13,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-llanta-trasera-copiloto-1614724673377.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-puerta-piloto-1614724670501.jpg",
+              "mediaType": "image",
+              "order": 14,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-puerta-piloto-1614724670501.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-puerta-abierta-piloto-1614724668346.jpg",
+              "mediaType": "image",
+              "order": 15,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-puerta-abierta-piloto-1614724668346.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-puerta-trasera-piloto-1614724665516.jpg",
+              "mediaType": "image",
+              "order": 16,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-puerta-trasera-piloto-1614724665516.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-puerta-abierta-trasera-piloto-1614724662520.jpg",
+              "mediaType": "image",
+              "order": 17,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-puerta-abierta-trasera-piloto-1614724662520.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-puerta-copiloto-1614724660114.jpg",
+              "mediaType": "image",
+              "order": 18,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-puerta-copiloto-1614724660114.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-puerta-abierta-copiloto-1614724657436.jpg",
+              "mediaType": "image",
+              "order": 19,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-puerta-abierta-copiloto-1614724657436.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-puerta-trasera-copiloto-1614724654806.jpg",
+              "mediaType": "image",
+              "order": 20,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-puerta-trasera-copiloto-1614724654806.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-puerta-abierta-trasera-copiloto-1614724650938.jpg",
+              "mediaType": "image",
+              "order": 21,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-puerta-abierta-trasera-copiloto-1614724650938.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-motor-1614724646609.jpg",
+              "mediaType": "image",
+              "order": 22,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-motor-1614724646609.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-vin-del-auto-1614724644403.jpg",
+              "mediaType": "image",
+              "order": 23,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-vin-del-auto-1614724644403.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-tablero-frontal-1614724641566.jpg",
+              "mediaType": "image",
+              "order": 24,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-tablero-frontal-1614724641566.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-consola-1614724638242.jpg",
+              "mediaType": "image",
+              "order": 25,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-consola-1614724638242.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-volante-1614724635278.jpg",
+              "mediaType": "image",
+              "order": 26,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-volante-1614724635278.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-palanca-1614724632173.jpg",
+              "mediaType": "image",
+              "order": 27,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-palanca-1614724632173.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-camara-de-reversa-(cuado-aplique)-1614724629431.jpg",
+              "mediaType": "image",
+              "order": 28,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-camara-de-reversa-(cuado-aplique)-1614724629431.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-quemacoco-1614724626875.jpg",
+              "mediaType": "image",
+              "order": 29,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-quemacoco-1614724626875.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-asientos-trasero-copiloto-1614724623325.jpg",
+              "mediaType": "image",
+              "order": 30,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-asientos-trasero-copiloto-1614724623325.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-cajuela-abierta-1614724617159.jpg",
+              "mediaType": "image",
+              "order": 31,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-cajuela-abierta-1614724617159.jpg"
+            },
+            {
+              "media": "images/38754/infiniti-q50-400-sport2017-llanta-de-repuesto-1614724614794.jpg",
+              "mediaType": "image",
+              "order": 32,
+              "thumbnail": "images/38754/infiniti-q50-400-sport2017-llanta-de-repuesto-1614724614794.jpg"
+            }
+          ],
+          "spin": "16138639408960_aca0535e4407522fa3724041341b83de9da9cfc037e583719"
+        },
+        "model": "Q50",
+        "name": "Infiniti Q50 Sport",
+        "redirectOutside": true,
+        "region": {
+          "id": 8,
+          "name": "Puebla"
+        },
+        "trim": "Sport"
+      }
+    },
+    "data": {
+      "foundById": true,
+      "mainResult": {
+        "_geoloc": {
+          "lat": 19.0098556,
+          "lng": -98.2445946
+        },
+        "_highlightResult": {
+          "body_type": {
+            "matchLevel": "none",
+            "matchedWords": [],
+            "value": "Sedan"
+          },
+          "car_id": {
+            "matchLevel": "none",
+            "matchedWords": [],
+            "value": "38754"
+          },
+          "car_model": {
+            "matchLevel": "none",
+            "matchedWords": [],
+            "value": "Q50"
+          },
+          "car_name": {
+            "matchLevel": "none",
+            "matchedWords": [],
+            "value": "Infiniti Q50 Sport"
+          },
+          "car_year": {
+            "matchLevel": "none",
+            "matchedWords": [],
+            "value": "2017"
+          },
+          "ext_color": {
+            "matchLevel": "none",
+            "matchedWords": [],
+            "value": "Negro"
+          },
+          "fuel_type": {
+            "matchLevel": "none",
+            "matchedWords": [],
+            "value": "Gasolina"
+          },
+          "region_name": {
+            "matchLevel": "none",
+            "matchedWords": [],
+            "value": "Puebla"
+          },
+          "traction": {
+            "matchLevel": "none",
+            "matchedWords": [],
+            "value": "4x2"
+          },
+          "transmission": {
+            "matchLevel": "none",
+            "matchedWords": [],
+            "value": "Automático"
+          }
+        },
+        "algolia_ranking": 1,
+        "apply_uber": false,
+        "available": true,
+        "body_type": "Sedan",
+        "body_type_code": null,
+        "body_type_trans": null,
+        "car_family_data": "{\"id\":\"2682\",\"description\":\"Infiniti Q50 2015-2018 Sedan\",\"generation\":\"2015-2018\",\"image\":\"/assets/images/families/infiniti/q50-2015-2018-sedan.png\",\"bodyType\":\"Sedan\",\"makeDesc\":\"Infiniti\",\"modelDesc\":\"Q50\",\"modelUrl\":\"https://www.kavak.com/mx/infiniti-q50-2018-2017-2016-2015-sedan-usados\",\"advancedSearchUrl\":\"https://www.kavak.com/mx/seminuevos/?maker=Infiniti\u0026a;model=Q50\u0026a;body_type=Sedan\u0026a;year=2015,2016,2017,2018\"}",
+        "car_family_version": 2682,
+        "car_id": 38754,
+        "car_image": [
+          "/images/38754/infiniti-q50-400-sport2017-frontal-lateral-piloto-lejana-1614724711427.jpg",
+          "/images/38754/infiniti-q50-400-sport2017-frontal-lateral-piloto-cercana-1614724707414.jpg",
+          "/images/38754/infiniti-q50-400-sport2017-frontal-1614724704637.jpg",
+          "/images/38754/infiniti-q50-400-sport2017-frontal-lateral-copiloto-1614724701618.jpg"
+        ],
+        "car_last_digit_plate": null,
+        "car_license_plate": "PVW388B",
+        "car_make": "Infiniti",
+        "car_make_id": null,
+        "car_make_trans": null,
+        "car_model": "Q50",
+        "car_model_code": "I019005",
+        "car_model_id": 1365,
+        "car_model_trans": null,
+        "car_name": "Infiniti Q50 Sport",
+        "car_name_trans": null,
+        "car_postal_code": "72480",
+        "car_trim": "Sport",
+        "car_trim_trans": null,
+        "car_type": {
+          "name": "Sedan",
+          "png": "assets/images/models/sedan.png"
+        },
+        "car_url": "/infiniti-q50-sport-2017-compra-de-autos-38754",
+        "car_vin": "JN1FV7BP4HM120065",
+        "car_vip_data": {
+          "allow_appointment": true,
+          "data": "{\"car_media\":{\"inventoryMedia\":[{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-frontal-lateral-piloto-lejana-1614724711427.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-frontal-lateral-piloto-lejana-1614724711427.jpg\",\"order\":1},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-frontal-lateral-piloto-cercana-1614724707414.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-frontal-lateral-piloto-cercana-1614724707414.jpg\",\"order\":2},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-frontal-1614724704637.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-frontal-1614724704637.jpg\",\"order\":3},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-frontal-lateral-copiloto-1614724701618.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-frontal-lateral-copiloto-1614724701618.jpg\",\"order\":4},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-lateral-copiloto-1614724699281.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-lateral-copiloto-1614724699281.jpg\",\"order\":5},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-trasero-lateral-piloto-1614724696395.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-trasero-lateral-piloto-1614724696395.jpg\",\"order\":6},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-trasera-1614724693826.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-trasera-1614724693826.jpg\",\"order\":7},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-trasera-lateral-copiloto-1614724687301.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-trasera-lateral-copiloto-1614724687301.jpg\",\"order\":8},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-lateral-piloto-1614724684314.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-lateral-piloto-1614724684314.jpg\",\"order\":9},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-llanta-piloto-1614724680828.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-llanta-piloto-1614724680828.jpg\",\"order\":10},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-llanta-trasera-piloto-1614724679069.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-llanta-trasera-piloto-1614724679069.jpg\",\"order\":11},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-llanta-copiloto-1614724676036.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-llanta-copiloto-1614724676036.jpg\",\"order\":12},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-llanta-trasera-copiloto-1614724673377.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-llanta-trasera-copiloto-1614724673377.jpg\",\"order\":13},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-puerta-piloto-1614724670501.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-puerta-piloto-1614724670501.jpg\",\"order\":14},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-puerta-abierta-piloto-1614724668346.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-puerta-abierta-piloto-1614724668346.jpg\",\"order\":15},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-puerta-trasera-piloto-1614724665516.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-puerta-trasera-piloto-1614724665516.jpg\",\"order\":16},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-puerta-abierta-trasera-piloto-1614724662520.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-puerta-abierta-trasera-piloto-1614724662520.jpg\",\"order\":17},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-puerta-copiloto-1614724660114.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-puerta-copiloto-1614724660114.jpg\",\"order\":18},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-puerta-abierta-copiloto-1614724657436.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-puerta-abierta-copiloto-1614724657436.jpg\",\"order\":19},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-puerta-trasera-copiloto-1614724654806.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-puerta-trasera-copiloto-1614724654806.jpg\",\"order\":20},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-puerta-abierta-trasera-copiloto-1614724650938.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-puerta-abierta-trasera-copiloto-1614724650938.jpg\",\"order\":21},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-motor-1614724646609.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-motor-1614724646609.jpg\",\"order\":22},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-vin-del-auto-1614724644403.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-vin-del-auto-1614724644403.jpg\",\"order\":23},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-tablero-frontal-1614724641566.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-tablero-frontal-1614724641566.jpg\",\"order\":24},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-consola-1614724638242.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-consola-1614724638242.jpg\",\"order\":25},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-volante-1614724635278.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-volante-1614724635278.jpg\",\"order\":26},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-palanca-1614724632173.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-palanca-1614724632173.jpg\",\"order\":27},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-camara-de-reversa-(cuado-aplique)-1614724629431.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-camara-de-reversa-(cuado-aplique)-1614724629431.jpg\",\"order\":28},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-quemacoco-1614724626875.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-quemacoco-1614724626875.jpg\",\"order\":29},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-asientos-trasero-copiloto-1614724623325.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-asientos-trasero-copiloto-1614724623325.jpg\",\"order\":30},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-cajuela-abierta-1614724617159.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-cajuela-abierta-1614724617159.jpg\",\"order\":31},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/infiniti-q50-400-sport2017-llanta-de-repuesto-1614724614794.jpg\",\"media\":\"images/38754/infiniti-q50-400-sport2017-llanta-de-repuesto-1614724614794.jpg\",\"order\":32}],\"internalDimples\":[{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/dimples/interior-1-16138498678668.jpg\",\"media\":\"images/38754/dimples/interior-1-16138498678668.jpg\",\"order\":43,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":167,\"left\":144}},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/dimples/interior-105-16138583531745.jpg\",\"media\":\"images/38754/dimples/interior-105-16138583531745.jpg\",\"order\":46,\"title\":\"Rayón Ligero\",\"description\":null,\"position\":{\"top\":440,\"left\":160}},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/dimples/interior-106-16138583619707.jpg\",\"media\":\"images/38754/dimples/interior-106-16138583619707.jpg\",\"order\":43,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":434,\"left\":196}},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/dimples/interior-107-16138584913705.jpg\",\"media\":\"images/38754/dimples/interior-107-16138584913705.jpg\",\"order\":46,\"title\":\"Rayón Ligero\",\"description\":null,\"position\":{\"top\":243,\"left\":216}},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/dimples/interior-108-16138584974311.jpg\",\"media\":\"images/38754/dimples/interior-108-16138584974311.jpg\",\"order\":43,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":231,\"left\":195}},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/dimples/interior-109-16138585257627.jpg\",\"media\":\"images/38754/dimples/interior-109-16138585257627.jpg\",\"order\":46,\"title\":\"Rayón Ligero\",\"description\":null,\"position\":{\"top\":219,\"left\":82}},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/dimples/interior-110-16138585330791.jpg\",\"media\":\"images/38754/dimples/interior-110-16138585330791.jpg\",\"order\":43,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":183,\"left\":124}},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/dimples/interior-111-16138585385309.jpg\",\"media\":\"images/38754/dimples/interior-111-16138585385309.jpg\",\"order\":43,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":201,\"left\":160}},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/dimples/interior-112-16138585552322.jpg\",\"media\":\"images/38754/dimples/interior-112-16138585552322.jpg\",\"order\":43,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":219,\"left\":112}},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/dimples/interior-131-16138593573441.jpg\",\"media\":\"images/38754/dimples/interior-131-16138593573441.jpg\",\"order\":43,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":184,\"left\":160}}],\"externalDimples\":[{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/dimples/exterior-113-16138591145487.jpg\",\"media\":\"images/38754/dimples/exterior-113-16138591145487.jpg\",\"order\":54,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":423,\"left\":252}},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/dimples/exterior-114-16138591191082.jpg\",\"media\":\"images/38754/dimples/exterior-114-16138591191082.jpg\",\"order\":54,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":438,\"left\":158}},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/dimples/exterior-115-16138591233571.jpg\",\"media\":\"images/38754/dimples/exterior-115-16138591233571.jpg\",\"order\":54,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":380,\"left\":166}},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/dimples/exterior-116-16138591278015.jpg\",\"media\":\"images/38754/dimples/exterior-116-16138591278015.jpg\",\"order\":54,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":302,\"left\":158}},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/dimples/exterior-117-16138591325377.jpg\",\"media\":\"images/38754/dimples/exterior-117-16138591325377.jpg\",\"order\":54,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":402,\"left\":81}},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/dimples/exterior-118-16138591469088.jpg\",\"media\":\"images/38754/dimples/exterior-118-16138591469088.jpg\",\"order\":54,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":274,\"left\":53}},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/dimples/exterior-119-16138591521522.jpg\",\"media\":\"images/38754/dimples/exterior-119-16138591521522.jpg\",\"order\":54,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":194,\"left\":42}},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/dimples/exterior-120-16138591568520.jpg\",\"media\":\"images/38754/dimples/exterior-120-16138591568520.jpg\",\"order\":36,\"title\":\"Rayón Ligero\",\"description\":null,\"position\":{\"top\":119,\"left\":17}},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/dimples/exterior-121-16138591616943.jpg\",\"media\":\"images/38754/dimples/exterior-121-16138591616943.jpg\",\"order\":36,\"title\":\"Rayón Ligero\",\"description\":null,\"position\":{\"top\":320,\"left\":26}},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/dimples/exterior-122-16138591754810.jpg\",\"media\":\"images/38754/dimples/exterior-122-16138591754810.jpg\",\"order\":54,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":47,\"left\":63}},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/dimples/exterior-123-16138591800528.jpg\",\"media\":\"images/38754/dimples/exterior-123-16138591800528.jpg\",\"order\":54,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":43,\"left\":166}},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/dimples/exterior-124-16138591847544.jpg\",\"media\":\"images/38754/dimples/exterior-124-16138591847544.jpg\",\"order\":54,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":137,\"left\":154}},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/dimples/exterior-125-16138591907025.jpg\",\"media\":\"images/38754/dimples/exterior-125-16138591907025.jpg\",\"order\":54,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":33,\"left\":263}},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/dimples/exterior-126-16138592080304.jpg\",\"media\":\"images/38754/dimples/exterior-126-16138592080304.jpg\",\"order\":54,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":194,\"left\":262}},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/dimples/exterior-127-16138592126368.jpg\",\"media\":\"images/38754/dimples/exterior-127-16138592126368.jpg\",\"order\":54,\"title\":\"Detalles Varios\",\"description\":null,\"position\":{\"top\":282,\"left\":252}},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/dimples/exterior-128-16138592174362.jpg\",\"media\":\"images/38754/dimples/exterior-128-16138592174362.jpg\",\"order\":36,\"title\":\"Rayón Ligero\",\"description\":null,\"position\":{\"top\":327,\"left\":282}},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/dimples/exterior-129-16138592226504.jpg\",\"media\":\"images/38754/dimples/exterior-129-16138592226504.jpg\",\"order\":36,\"title\":\"Rayón Ligero\",\"description\":null,\"position\":{\"top\":122,\"left\":284}},{\"mediaType\":\"image\",\"thumbnail\":\"images/38754/dimples/exterior-130-16138592781648.jpg\",\"media\":\"images/38754/dimples/exterior-130-16138592781648.jpg\",\"order\":36,\"title\":\"Rayón Ligero\",\"description\":null,\"position\":{\"top\":188,\"left\":242}}],\"spin\":\"16138639408960_aca0535e4407522fa3724041341b83de9da9cfc037e583719\"},\"currency\":null,\"warehouse\":{\"id\":\"35\",\"name\":\"Kavak Las Torres\",\"isHome\":false,\"address\":\"Blvd. Municipio Libre 1910, Ex Hacienda Mayorazgo, 72480 Puebla, Puebla\",\"latitude\":\"19.0098556\",\"longitude\":\"-98.2445946\",\"region\":\"Puebla\",\"isHubOnline\":false},\"features\":{\"mainAccessories\":{\"name\":\"General\",\"items\":[{\"name\":\"Transmisión\",\"code\":\"transmission_type\",\"value\":\"Automático\"},{\"name\":\"Turbo\",\"code\":\"turbo\",\"value\":\"Turbo\"},{\"name\":\"Uso\",\"code\":\"use_type\",\"value\":\"Particular\"},{\"name\":\"Litros\",\"code\":\"liter\",\"value\":\"3\"},{\"name\":\"Tracción\",\"code\":\"traction_type\",\"value\":\"4x2\"},{\"name\":\"Consumo de Combustible L/ 100 km\",\"code\":\"oil_consume\",\"value\":\"9.5\"},{\"name\":\"Combustible\",\"code\":\"fuel\",\"value\":\"Gasolina\"}]},\"otherAccessories\":[{\"name\":\"Exterior\",\"categories\":[{\"name\":\"Carrocería\",\"items\":[{\"name\":\"Tipo de Carrocería\",\"code\":\"body_type\",\"value\":\"Sedan\"}]},{\"name\":\"Puertas\",\"items\":[{\"name\":\"Número de Puertas\",\"code\":\"number_doors\",\"value\":\"4\"}]},{\"name\":\"Sistema de luz\",\"items\":[{\"name\":\"Faros Frontales\",\"code\":\"light\",\"value\":\"Faros de Niebla\"}]},{\"name\":\"Llantas\",\"items\":[{\"name\":\"Número de Rin\",\"code\":\"rim\",\"value\":\"19\"},{\"name\":\"Material Rin\",\"code\":\"rim_material\",\"value\":\"Aluminio\"}]}]},{\"name\":\"Seguridad\",\"categories\":[{\"name\":\"Seguridad\",\"items\":[{\"name\":\"Bolsas de Aire Frontales\",\"code\":\"front_airbags\",\"value\":\"Sí\"}]}]},{\"name\":\"Entretenimiento y Conectividad\",\"categories\":[{\"name\":\"Sistema de Infotenimiento\",\"items\":[{\"name\":\"Sistema de Navegación\",\"code\":\"gps\",\"value\":\"GPS\"},{\"name\":\"CD\",\"code\":\"cd\",\"value\":\"Sí\"}]}]},{\"name\":\"Interior\",\"categories\":[{\"name\":\"Pasajeros\",\"items\":[{\"name\":\"Número de Pasajeros\",\"code\":\"number_of_passengers\",\"value\":\"5\"}]}]}]},\"parts\":[],\"financingOnly\":false,\"paperwork\":{\"registrationPlateAmount\":null,\"lowPlateAmount\":null,\"circulationLicenceAmount\":{\"amount\":200,\"free\":false},\"stateName\":\"MORELOS\",\"netsuiteStateId\":0,\"otherStatesPaperwork\":[{\"_id\":\"60da5d36bdd29b00088a92a4\",\"netsuiteStateId\":7,\"stateName\":\"Ciudad de México\",\"tenure\":11492.376533999999,\"endorsement\":0,\"amount\":5000},{\"_id\":\"60da5d36bdd29b00088a92a5\",\"netsuiteStateId\":15,\"stateName\":\"Jalisco\",\"tenure\":17653.4698136,\"endorsement\":0,\"amount\":6728},{\"_id\":\"60da5d36bdd29b00088a92a6\",\"netsuiteStateId\":11,\"stateName\":\"Estado de Mexico\",\"tenure\":11492.376533999999,\"endorsement\":0,\"amount\":3400}]},\"coordinate\":\"H-28\",\"indTenure\":true,\"accidents\":null}",
+          "hub_id": "35",
+          "url": "https://www.kavak.com/mx/usado/infiniti-q50-sport-sedan-2017?id=38754"
+        },
+        "car_year": 2017,
+        "currency_exchange": null,
+        "estimated_delivery_date": 20230430,
+        "ext_color": "Negro",
+        "exterior_color": {
+          "hex": "otro",
+          "name": "Negro"
+        },
+        "filter_status": "Disponible",
+        "filter_status_code": "available",
+        "final_price": 440999,
+        "financing_only": false,
+        "fuel_type": "Gasolina",
+        "fuel_type_code": "standard",
+        "fuel_type_trans": null,
+        "horse_power": null,
+        "hub_hty_id": 1,
+        "icon": null,
+        "image_url": "/images/38754/infiniti-q50-400-sport2017-frontal-lateral-piloto-lejana-1614724711427.jpg",
+        "is_promotion": false,
+        "km": 70906,
+        "location_filter": "Las Torres",
+        "location_filter_id": null,
+        "location_filter_trans": null,
+        "make": {
+          "name": "Infiniti",
+          "png": "/assets/images/brands/color/infiniti.png",
+          "svg": "/assets/images/brands/color/infiniti.svg"
+        },
+        "make_model": "Infiniti_Q50",
+        "monthly_payment": 5620.8620976,
+        "objectID": "38754",
+        "passengers": 5,
+        "post_date": 20230310,
+        "price": 440999,
+        "price_bucket": 3,
+        "pricing": {
+          "inv_id": 38754,
+          "price_index": 1.004922078484364,
+          "promotion_percentage": null,
+          "promotion_price": null,
+          "published_price": 440999,
+          "segment_current": "wishlist_3",
+          "status_id": 1
+        },
+        "promotion_color": null,
+        "promotion_name": null,
+        "promotion_price": null,
+        "region_id": 8,
+        "region_location": "Puebla_Las Torres",
+        "region_name": "Puebla",
+        "region_name_array": [
+          "Puebla"
+        ],
+        "region_name_trans": null,
+        "status": "AVAILABLE",
+        "traction": "4x2",
+        "transmission": "Automático",
+        "transmission_code": "automatic",
+        "transmission_trans": null,
+        "zero_kms": {}
+      }
+    },
+    "dimples": {
+      "disclaimer": "*El vehículo puede presentar otros detalles estéticos menores. En esta sección, solo se muestran los más relevantes.",
+      "externalBtnAria": "Exterior details",
+      "externalBtnLabel": "EXTERIOR",
+      "externalDimpleMapImg": {
+        "img": {
+          "draggable": false,
+          "height": 276,
+          "src": "https://images.kavak.services/mx/assets/images/vip/webp/dimple_exterior_beta.webp",
+          "width": 426
+        }
+      },
+      "internalBtnAria": "Interior details",
+      "internalBtnLabel": "INTERIOR",
+      "internalDimpleMapImg": {
+        "img": {
+          "draggable": false,
+          "height": 276,
+          "src": "https://images.kavak.services/mx/assets/images/vip/webp/dimple_interior_beta.webp",
+          "width": 426
+        }
+      },
+      "isActive": true,
+      "media": {
+        "external": [
+          {
+            "base": "",
+            "dimple": {
+              "left": 252,
+              "top": 423
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/dimples/exterior-113-16138591145487.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/dimples/exterior-113-16138591145487.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 158,
+              "top": 438
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/dimples/exterior-114-16138591191082.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/dimples/exterior-114-16138591191082.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 166,
+              "top": 380
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/dimples/exterior-115-16138591233571.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/dimples/exterior-115-16138591233571.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 158,
+              "top": 302
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/dimples/exterior-116-16138591278015.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/dimples/exterior-116-16138591278015.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 81,
+              "top": 402
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/dimples/exterior-117-16138591325377.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/dimples/exterior-117-16138591325377.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 53,
+              "top": 274
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/dimples/exterior-118-16138591469088.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/dimples/exterior-118-16138591469088.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 42,
+              "top": 194
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/dimples/exterior-119-16138591521522.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/dimples/exterior-119-16138591521522.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 17,
+              "top": 119
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/dimples/exterior-120-16138591568520.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/dimples/exterior-120-16138591568520.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 26,
+              "top": 320
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/dimples/exterior-121-16138591616943.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/dimples/exterior-121-16138591616943.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 63,
+              "top": 47
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/dimples/exterior-122-16138591754810.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/dimples/exterior-122-16138591754810.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 166,
+              "top": 43
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/dimples/exterior-123-16138591800528.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/dimples/exterior-123-16138591800528.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 154,
+              "top": 137
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/dimples/exterior-124-16138591847544.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/dimples/exterior-124-16138591847544.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 263,
+              "top": 33
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/dimples/exterior-125-16138591907025.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/dimples/exterior-125-16138591907025.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 262,
+              "top": 194
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/dimples/exterior-126-16138592080304.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/dimples/exterior-126-16138592080304.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 252,
+              "top": 282
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/dimples/exterior-127-16138592126368.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/dimples/exterior-127-16138592126368.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 282,
+              "top": 327
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/dimples/exterior-128-16138592174362.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/dimples/exterior-128-16138592174362.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 284,
+              "top": 122
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/dimples/exterior-129-16138592226504.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/dimples/exterior-129-16138592226504.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 242,
+              "top": 188
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/dimples/exterior-130-16138592781648.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/dimples/exterior-130-16138592781648.jpg"
+              }
+            ]
+          }
+        ],
+        "internal": [
+          {
+            "base": "",
+            "dimple": {
+              "left": 144,
+              "top": 167
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/dimples/interior-1-16138498678668.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/dimples/interior-1-16138498678668.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 160,
+              "top": 440
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/dimples/interior-105-16138583531745.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/dimples/interior-105-16138583531745.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 196,
+              "top": 434
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/dimples/interior-106-16138583619707.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/dimples/interior-106-16138583619707.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 216,
+              "top": 243
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/dimples/interior-107-16138584913705.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/dimples/interior-107-16138584913705.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 195,
+              "top": 231
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/dimples/interior-108-16138584974311.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/dimples/interior-108-16138584974311.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 82,
+              "top": 219
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/dimples/interior-109-16138585257627.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/dimples/interior-109-16138585257627.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 124,
+              "top": 183
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/dimples/interior-110-16138585330791.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/dimples/interior-110-16138585330791.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 160,
+              "top": 201
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/dimples/interior-111-16138585385309.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/dimples/interior-111-16138585385309.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 112,
+              "top": 219
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/dimples/interior-112-16138585552322.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/dimples/interior-112-16138585552322.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "dimple": {
+              "left": 160,
+              "top": 184
+            },
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "kavak.com",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/dimples/interior-131-16138593573441.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/dimples/interior-131-16138593573441.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      "showToggle": true,
+      "subtitle": "",
+      "title": "Imperfecciones"
+    },
+    "emptyState": {
+      "cta": {
+        "dataCy": "btn-see-more-cars",
+        "label": "Ver autos similares",
+        "url": "https://www.kavak.com/mx/estatus-Disponible/compra-de-autos"
+      },
+      "description": "Explora todos los modelos similares que tenemos en nuestro catálogo y encuentra el tuyo.",
+      "icon": "\u0026l;svg width=\"61\" height=\"60\" viewBox=\"0 0 61 60\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g;\u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M18.4102 15.0311H12.8608C11.3189 15.0311 9.93411 15.975 9.37041 17.4102L7.77493 21.4724L4.85228 24.3907C4.14781 25.0941 3.75195 26.0488 3.75195 27.0443V35.6251C3.75195 37.6962 5.43089 39.3751 7.50195 39.3751H9.44343C9.89838 42.5553 12.6334 45 15.9395 45C19.2455 45 21.9805 42.5553 22.4355 39.3751H37.5684C38.0234 42.5553 40.7584 45 44.0645 45C47.3705 45 50.1055 42.5553 50.5605 39.3751H52.502C54.573 39.3751 56.252 37.6962 56.252 35.6251V33.1194C56.252 29.5916 53.7876 26.543 50.3466 25.7909L40.4365 23.6249C37.3735 19.7416 35.167 17.5104 33.0265 16.3134C30.7299 15.0292 28.6584 15.0301 26.4338 15.031L26.252 15.0311H19.0937C18.9829 15.0107 18.8687 15 18.752 15C18.6352 15 18.521 15.0107 18.4102 15.0311ZM44.0051 35.6256C44.0247 35.6253 44.0445 35.6251 44.0645 35.6251C44.0844 35.6251 44.1042 35.6253 44.1238 35.6256C45.6497 35.6572 46.877 36.904 46.877 38.4375C46.877 39.9908 45.6178 41.25 44.0645 41.25C42.5112 41.25 41.252 39.9908 41.252 38.4375C41.252 36.904 42.4792 35.6572 44.0051 35.6256ZM44.1708 31.8758C47.3442 31.9202 49.155 33.9464 50.0198 35.6251H52.502V33.1194C52.502 31.3597 51.2705 29.8314 49.5459 29.4544L43.3837 28.1076C43.2998 28.1191 43.214 28.125 43.1269 28.125H20.627C18.5559 28.125 16.877 26.4461 16.877 24.375V18.7811H12.8608L11.2654 22.8433C11.0765 23.3243 10.7902 23.761 10.4246 24.1261L7.50195 27.0443V35.6251H9.98411C10.8489 33.9464 12.6597 31.9202 15.8331 31.8758C15.8685 31.8753 15.9039 31.875 15.9395 31.875C15.975 31.875 16.0104 31.8753 16.0458 31.8758C19.2192 31.9202 21.03 33.9464 21.8948 35.6251H38.1091C38.9739 33.9464 40.7847 31.9202 43.9581 31.8758C43.9935 31.8753 44.0289 31.875 44.0645 31.875C44.1 31.875 44.1354 31.8753 44.1708 31.8758ZM36.221 24.375L20.627 24.375V18.7811H26.252C28.6456 18.7811 29.8052 18.8086 31.1962 19.5864C32.4308 20.2768 33.9296 21.6176 36.221 24.375ZM15.8801 35.6256C15.8997 35.6253 15.9195 35.6251 15.9395 35.6251C15.9594 35.6251 15.9792 35.6253 15.9988 35.6256C17.5247 35.6572 18.752 36.904 18.752 38.4375C18.752 39.9908 17.4928 41.25 15.9395 41.25C14.3862 41.25 13.127 39.9908 13.127 38.4375C13.127 36.904 14.3542 35.6572 15.8801 35.6256Z\" fill=\"#C7C7C7\"/\u0026g;\u0026l;/svg\u0026g;",
+      "isActive": false,
+      "title": "¡Ay! Esta opción no está disponible en este momento"
+    },
+    "features": {
+      "title": "Características",
+      "types": [
+        {
+          "icon": "\u0026l;svg width=\"25\" height=\"24\" viewBox=\"0 0 25 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path d=\"M12.391 21.5C17.7583 21.5 22.1093 17.1348 22.1093 11.75C22.1093 6.36522 17.7583 2 12.391 2C7.02376 2 2.67273 6.36522 2.67273 11.75C2.67273 17.1348 7.02376 21.5 12.391 21.5Z\" stroke=\"#333333\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M12.3919 12.3998C13.1076 12.3998 13.6878 11.8178 13.6878 11.0998C13.6878 10.3818 13.1076 9.7998 12.3919 9.7998C11.6763 9.7998 11.0961 10.3818 11.0961 11.0998C11.0961 11.8178 11.6763 12.3998 12.3919 12.3998Z\" stroke=\"#333333\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M16.28 16.3C16.28 16.6448 16.1435 16.9754 15.9004 17.2192C15.6574 17.463 15.3278 17.6 14.9841 17.6H9.80063C9.45695 17.6 9.12734 17.463 8.88431 17.2192C8.64129 16.9754 8.50476 16.6448 8.50476 16.3C8.50476 15.9552 8.64129 15.6246 8.88431 15.3808C9.12734 15.137 9.45695 15 9.80063 15H14.9841C15.3278 15 15.6574 15.137 15.9004 15.3808C16.1435 15.6246 16.28 15.9552 16.28 16.3Z\" stroke=\"#333333\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M9.9541 4.38184L10.3982 5.60297\" stroke=\"#333333\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M6.21985 7.52539L7.34207 8.17539\" stroke=\"#333333\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M5.37317 12.3414L6.65004 12.1152\" stroke=\"#333333\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M14.8304 4.38184L14.3864 5.60297\" stroke=\"#333333\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M18.5644 7.52539L13.5139 10.4504\" stroke=\"#333333\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M19.41 12.3414L18.1332 12.1152\" stroke=\"#333333\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;/svg\u0026g;",
+          "items": [
+            {
+              "code": "transmission_type",
+              "name": "Transmisión",
+              "value": "Automático"
+            },
+            {
+              "code": "turbo",
+              "name": "Turbo",
+              "value": "Turbo"
+            },
+            {
+              "code": "use_type",
+              "name": "Uso",
+              "value": "Particular"
+            },
+            {
+              "code": "liter",
+              "name": "Litros",
+              "value": "3"
+            },
+            {
+              "code": "traction_type",
+              "name": "Tracción",
+              "value": "4x2"
+            },
+            {
+              "code": "oil_consume",
+              "name": "Consumo de Combustible L/ 100 km",
+              "value": "9.5"
+            },
+            {
+              "code": "fuel",
+              "name": "Combustible",
+              "value": "Gasolina"
+            }
+          ],
+          "title": "General"
+        },
+        {
+          "icon": "\u0026l;svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.36328 6.01243H5.14356C4.52678 6.01243 3.97286 6.38998 3.74738 6.96407L3.10919 8.58897L1.94013 9.75629C1.65834 10.0377 1.5 10.4195 1.5 10.8177V14.25C1.5 15.0785 2.17157 15.75 3 15.75H3.77659C3.95857 17.0221 5.05259 18 6.375 18C7.69741 18 8.79143 17.0221 8.97341 15.75H15.0266C15.2086 17.0221 16.3026 18 17.625 18C18.9474 18 20.0414 17.0221 20.2234 15.75H21C21.8284 15.75 22.5 15.0785 22.5 14.25V13.2478C22.5 11.8366 21.5143 10.6172 20.1379 10.3164L16.1738 9.44995C14.9486 7.89663 14.066 7.00416 13.2098 6.52537C12.2912 6.01168 11.4626 6.01203 10.5728 6.01241L10.5 6.01243H7.63672C7.59239 6.00427 7.54669 6 7.5 6C7.45331 6 7.40761 6.00427 7.36328 6.01243ZM17.6013 14.2502C17.6091 14.2501 17.617 14.25 17.625 14.25C17.633 14.25 17.6409 14.2501 17.6487 14.2502C18.2591 14.2629 18.75 14.7616 18.75 15.375C18.75 15.9963 18.2463 16.5 17.625 16.5C17.0037 16.5 16.5 15.9963 16.5 15.375C16.5 14.7616 16.9909 14.2629 17.6013 14.2502ZM17.6677 12.7503C18.937 12.7681 19.6612 13.5786 20.0071 14.25H21V13.2478C21 12.5439 20.5074 11.9325 19.8176 11.7818L17.3527 11.243C17.3191 11.2476 17.2848 11.25 17.25 11.25H8.25C7.42157 11.25 6.75 10.5784 6.75 9.75V7.51243H5.14356L4.50537 9.13733C4.42981 9.3297 4.31531 9.50439 4.16906 9.65042L3 10.8177V14.25H3.99286C4.33877 13.5786 5.06304 12.7681 6.33232 12.7503C6.34652 12.7501 6.36075 12.75 6.375 12.75C6.38925 12.75 6.40348 12.7501 6.41768 12.7503C7.68696 12.7681 8.41123 13.5786 8.75714 14.25H15.2429C15.5888 13.5786 16.313 12.7681 17.5823 12.7503C17.5965 12.7501 17.6107 12.75 17.625 12.75C17.6393 12.75 17.6535 12.7501 17.6677 12.7503ZM14.4876 9.75L8.25 9.75V7.51243H10.5C11.4575 7.51243 11.9213 7.52345 12.4777 7.83458C12.9715 8.11073 13.571 8.64703 14.4876 9.75ZM6.35125 14.2502C6.35911 14.2501 6.36703 14.25 6.375 14.25C6.38297 14.25 6.39089 14.2501 6.39875 14.2502C7.0091 14.2629 7.5 14.7616 7.5 15.375C7.5 15.9963 6.99632 16.5 6.375 16.5C5.75368 16.5 5.25 15.9963 5.25 15.375C5.25 14.7616 5.7409 14.2629 6.35125 14.2502Z\" fill=\"#333333\"/\u0026g; \u0026l;/svg\u0026g;",
+          "items": [
+            {
+              "category": "Carrocería",
+              "code": "body_type",
+              "name": "Tipo de Carrocería",
+              "value": "Sedan"
+            },
+            {
+              "category": "Puertas",
+              "code": "number_doors",
+              "name": "Número de Puertas",
+              "value": "4"
+            },
+            {
+              "category": "Sistema de luz",
+              "code": "light",
+              "name": "Faros Frontales",
+              "value": "Faros de Niebla"
+            },
+            {
+              "category": "Llantas",
+              "code": "rim",
+              "name": "Número de Rin",
+              "value": "19"
+            },
+            {
+              "category": "Llantas",
+              "code": "rim_material",
+              "name": "Material Rin",
+              "value": "Aluminio"
+            }
+          ],
+          "title": "Exterior"
+        },
+        {
+          "icon": "\u0026l;svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4.50001 3C3.67355 3 3 3.6681 3 4.4985L3.00001 9.75003C3.00001 12.8886 3.79007 14.9185 5.05221 16.4117C6.10328 17.6552 7.4624 18.4874 8.74 19.2697L8.74087 19.2703C8.94743 19.3967 9.15185 19.5219 9.3525 19.6473L9.3701 19.6583L11.2766 20.7079C11.727 20.9558 12.273 20.9558 12.7234 20.7079L14.6299 19.6583L14.6475 19.6473C14.8484 19.5217 15.0531 19.3964 15.26 19.2697C16.5376 18.4874 17.8967 17.6552 18.9478 16.4117C20.2099 14.9185 21 12.8886 21 9.75V4.5C21 3.67157 20.3284 3 19.5 3H4.50001ZM19.5 4.5H4.50001L4.50001 9.75003C4.50001 12.6115 5.20994 14.2747 6.19779 15.4434C7.0805 16.4877 8.20918 17.1815 9.49611 17.9726C9.70337 18.1 9.91473 18.23 10.1298 18.3643L12 19.3939L13.8702 18.3643C14.0853 18.23 14.2966 18.1 14.5039 17.9726C15.7908 17.1815 16.9195 16.4877 17.8022 15.4434C18.7901 14.2747 19.5 12.6114 19.5 9.75V4.5ZM15.15 7.80008C15.3985 7.46871 15.8686 7.40155 16.2 7.65008C16.5313 7.89861 16.5985 8.36871 16.35 8.70008L12.3688 14.0083C11.8211 14.7385 10.7536 14.8144 10.1081 14.1689L8.46962 12.5304C8.17673 12.2375 8.17673 11.7626 8.46962 11.4698C8.76252 11.1769 9.23739 11.1769 9.53028 11.4698L11.1688 13.1083L15.15 7.80008Z\" fill=\"#333333\"/\u0026g; \u0026l;/svg\u0026g;",
+          "items": [
+            {
+              "category": "Seguridad",
+              "code": "front_airbags",
+              "name": "Bolsas de Aire Frontales",
+              "value": "Sí"
+            }
+          ],
+          "title": "Seguridad"
+        },
+        {
+          "icon": "\u0026l;svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.1903 4.5C10.8777 4.5 10.5729 4.59768 10.3184 4.7794L6.50961 7.5H3C2.17157 7.5 1.5 8.17157 1.5 9V15C1.5 15.8284 2.17157 16.5 3 16.5H6.50961L10.3184 19.2206C10.5729 19.4023 10.8777 19.5 11.1903 19.5L12 19.5C12.8284 19.5 13.5 18.8284 13.5 18V6C13.5 5.17157 12.8284 4.5 12 4.5H11.1903ZM7.5 15.3641L11.1903 18L12 18V6H11.1903L7.5 8.63593V15.3641ZM3 9H6V15H3V9ZM16.5 7.5C16.5 7.08579 16.8358 6.75 17.25 6.75C20.1495 6.75 22.5 9.1005 22.5 12C22.5 14.8995 20.1495 17.25 17.25 17.25C16.8358 17.25 16.5 16.9142 16.5 16.5C16.5 16.0858 16.8358 15.75 17.25 15.75C19.3211 15.75 21 14.0711 21 12C21 9.92893 19.3211 8.25 17.25 8.25C16.8358 8.25 16.5 7.91421 16.5 7.5ZM17.25 9.75C16.8358 9.75 16.5 10.0858 16.5 10.5C16.5 10.9142 16.8358 11.25 17.25 11.25C17.6642 11.25 18 11.5858 18 12C18 12.4142 17.6642 12.75 17.25 12.75C16.8358 12.75 16.5 13.0858 16.5 13.5C16.5 13.9142 16.8358 14.25 17.25 14.25C18.4926 14.25 19.5 13.2426 19.5 12C19.5 10.7574 18.4926 9.75 17.25 9.75Z\" fill=\"#333333\"/\u0026g; \u0026l;/svg\u0026g;",
+          "items": [
+            {
+              "category": "Sistema de Infotenimiento",
+              "code": "gps",
+              "name": "Sistema de Navegación",
+              "value": "GPS"
+            },
+            {
+              "category": "Sistema de Infotenimiento",
+              "code": "cd",
+              "name": "CD",
+              "value": "Sí"
+            }
+          ],
+          "title": "Entretenimiento"
+        },
+        {
+          "icon": "\u0026l;svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M3.29529 4.75779C3.0184 3.92713 3.50888 3.03688 4.35897 2.82713L5.33079 2.58734C6.42822 2.31655 7.55621 2.902 7.96641 3.9553L8.45247 5.20336C8.87427 6.28644 8.40169 7.51254 7.36208 8.03234L6.35877 8.534C5.54232 8.94222 4.55359 8.53268 4.26493 7.6667L3.29529 4.75779ZM5.69013 4.04366L4.71832 4.28345L5.68795 7.19236L6.69126 6.6907C7.0378 6.51743 7.19532 6.10873 7.05472 5.74771L6.56867 4.49965C6.43193 4.14855 6.05594 3.9534 5.69013 4.04366ZM12.5578 15.75L11.4106 11.9261C10.7777 9.81628 8.47122 8.70379 6.42605 9.52187L6.36274 9.54719C5.6378 9.83717 5.25654 10.6348 5.48616 11.381L8.28298 20.4707C8.3647 20.7363 8.58657 20.9349 8.85955 20.9869C8.91133 20.9968 8.96334 21.001 9.01481 21H19.5C20.3284 21 21 20.3284 21 19.5C21 17.4289 19.3211 15.75 17.25 15.75H12.5578ZM17.25 17.25L12.3605 17.25L10.5605 19.5H19.5C19.5 18.2574 18.4926 17.25 17.25 17.25ZM6.98314 10.9146C8.21024 10.4237 9.59411 11.0912 9.97388 12.3571L11.1684 16.3388L9.29974 18.6746L6.91982 10.9399L6.98314 10.9146Z\" fill=\"#333333\"/\u0026g; \u0026l;/svg\u0026g;",
+          "items": [
+            {
+              "category": "Pasajeros",
+              "code": "number_of_passengers",
+              "name": "Número de Pasajeros",
+              "value": "5"
+            }
+          ],
+          "title": "Interior"
+        }
+      ]
+    },
+    "financingBanner": {
+      "button": {
+        "dataCy": "btn-simulate-payment-plan",
+        "hl": "https://www.kavak.com/mx/iniciar-sesion-telefono?returnUrl=financing-initialization",
+        "label": "Simular plan de pagos",
+        "url": "https://www.kavak.com/mx/financing-initialization"
+      },
+      "image": {
+        "global": true,
+        "img": {
+          "alt": "Simular plan de pagos",
+          "draggable": false,
+          "height": 96,
+          "loading": "lazy",
+          "width": 241
+        },
+        "sources": [
+          {
+            "default": true,
+            "srcset": "https://images.kavak.services/mx/assets/images/vip/png/vip-financing-banner-v2-lg.png",
+            "type": "image/png"
+          }
+        ]
+      },
+      "isActive": true,
+      "itemList": [
+        {
+          "description": "Cotiza según tus preferencias y elige los plazos que más te convengan.",
+          "icon": {
+            "src": "\u0026l;svg width=\"26\" height=\"26\" viewBox=\"0 0 26 26\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M13 3.25C7.61522 3.25 3.25 7.61522 3.25 13C3.25 18.3848 7.61522 22.75 13 22.75C18.3848 22.75 22.75 18.3848 22.75 13C22.75 7.61522 18.3848 3.25 13 3.25ZM1.625 13C1.625 6.71776 6.71776 1.625 13 1.625C19.2822 1.625 24.375 6.71776 24.375 13C24.375 19.2822 19.2822 24.375 13 24.375C6.71776 24.375 1.625 19.2822 1.625 13ZM13 6.5C13.4487 6.5 13.8125 6.86377 13.8125 7.3125V8.9375H14.625C15.0737 8.9375 15.4375 9.30127 15.4375 9.75C15.4375 10.1987 15.0737 10.5625 14.625 10.5625H12.1875C11.7388 10.5625 11.375 10.9263 11.375 11.375C11.375 11.8237 11.7388 12.1875 12.1875 12.1875C12.2124 12.1875 12.237 12.1886 12.2614 12.1908C12.2857 12.1886 12.3103 12.1875 12.3352 12.1875H13.6648C15.0246 12.1875 16.25 13.2137 16.25 14.625C16.25 15.985 15.112 16.9874 13.8125 17.0585V18.6874C13.8125 19.1362 13.4487 19.4999 13 19.4999C12.5513 19.4999 12.1875 19.1362 12.1875 18.6874V17.0625H11.375C10.9263 17.0625 10.5625 16.6987 10.5625 16.25C10.5625 15.8013 10.9263 15.4375 11.375 15.4375L13.6648 15.4375C14.2631 15.4375 14.625 15.0086 14.625 14.625C14.625 14.2414 14.2631 13.8125 13.6648 13.8125H12.3352C12.3103 13.8125 12.2857 13.8114 12.2614 13.8092C12.237 13.8114 12.2124 13.8125 12.1875 13.8125C10.8413 13.8125 9.75 12.7212 9.75 11.375C9.75 10.0288 10.8413 8.9375 12.1875 8.9375V7.3125C12.1875 6.86377 12.5513 6.5 13 6.5Z\" fill=\"#333333\"/\u0026g; \u0026l;/svg\u0026g;"
+          },
+          "title": "Simula planes en tiempo real "
+        },
+        {
+          "description": "Completa tu información y valídala sin salir de tu casa.",
+          "icon": {
+            "src": "\u0026l;svg width=\"28\" height=\"28\" viewBox=\"0 0 28 28\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7 1.75C6.0335 1.75 5.25 2.5335 5.25 3.5V24.5C5.25 25.4665 6.0335 26.25 7 26.25H21C21.9665 26.25 22.75 25.4665 22.75 24.5V9.98744C22.75 9.9162 22.7457 9.84542 22.7371 9.77543C22.7456 9.72656 22.75 9.6763 22.75 9.625C22.75 9.32914 22.6032 9.06758 22.3784 8.90921C22.3349 8.85362 22.2879 8.80043 22.2374 8.75L15.75 2.26256C15.6996 2.21214 15.6464 2.1651 15.5908 2.12161C15.4324 1.89684 15.1709 1.75 14.875 1.75C14.8237 1.75 14.7734 1.75441 14.7246 1.76288C14.6546 1.75434 14.5838 1.75 14.5126 1.75H7ZM14 3.5L7 3.5V24.5H21V10.5H15.75C14.7835 10.5 14 9.7165 14 8.75V3.5ZM19.7626 8.75L15.75 4.73744V8.75H19.7626Z\" fill=\"#333333\"/\u0026g; \u0026l;/svg\u0026g;"
+          },
+          "title": "Carga tus datos 100% online"
+        }
+      ],
+      "title": "Paga tu auto en hasta 60 meses"
+    },
+    "highlights": {
+      "highlights": [
+        {
+          "icon": "\u0026l;svg width=\"29\" height=\"28\" viewBox=\"0 0 29 28\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14.0674 24.5C19.8664 24.5 24.5674 19.799 24.5674 14C24.5674 11.3449 23.5819 8.92001 21.9568 7.07108L18.9035 10.2409C19.7113 11.2786 20.1924 12.5831 20.1924 14C20.1924 17.3827 17.4501 20.125 14.0674 20.125C10.6846 20.125 7.94238 17.3827 7.94238 14C7.94238 10.6173 10.6846 7.875 14.0674 7.875C15.4021 7.875 16.6371 8.30191 17.6433 9.02664L20.6966 5.85686C18.8889 4.38347 16.5813 3.5 14.0674 3.5C8.26839 3.5 3.56738 8.20101 3.56738 14C3.56738 19.799 8.26839 24.5 14.0674 24.5ZM16.4115 10.3054C15.7339 9.87454 14.9298 9.625 14.0674 9.625C11.6511 9.625 9.69238 11.5838 9.69238 14C9.69238 16.4162 11.6511 18.375 14.0674 18.375C16.4836 18.375 18.4424 16.4162 18.4424 14C18.4424 13.079 18.1578 12.2245 17.6718 11.5196L14.6978 14.607C14.3625 14.9551 13.8086 14.9654 13.4605 14.6302C13.1125 14.2949 13.1021 13.741 13.4374 13.393L16.4115 10.3054ZM26.3174 14C26.3174 20.7655 20.8329 26.25 14.0674 26.25C7.30189 26.25 1.81738 20.7655 1.81738 14C1.81738 7.23451 7.3019 1.75 14.0674 1.75C20.8329 1.75 26.3174 7.23451 26.3174 14Z\" fill=\"#333333\"/\u0026g; \u0026l;/svg\u0026g;",
+          "title": "Sistema GPS"
+        }
+      ],
+      "isActive": true,
+      "title": "Equipamiento destacado"
+    },
+    "media": {
+      "badges": {
+        "media": [],
+        "onCorner": false
+      },
+      "details": {
+        "disclaimer": "* El vehículo puede presentar otros detalles estéticos menores. En esta sección, solo se muestran los más relevantes.",
+        "galleryTab": "Imágenes",
+        "lang": "es",
+        "name": "Infiniti Q50 Sport",
+        "quality": "h",
+        "showDisclaimer": true,
+        "spin": "16138639408960_aca0535e4407522fa3724041341b83de9da9cfc037e583719",
+        "version": "0.8",
+        "view360Tab": "Ver 360"
+      },
+      "gallery": {
+        "icon": {
+          "width": "2rem"
+        },
+        "media": [
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": true,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-frontal-lateral-piloto-lejana-1614724711427.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-frontal-lateral-piloto-lejana-1614724711427.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-frontal-lateral-piloto-cercana-1614724707414.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-frontal-lateral-piloto-cercana-1614724707414.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-frontal-1614724704637.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-frontal-1614724704637.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-frontal-lateral-copiloto-1614724701618.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-frontal-lateral-copiloto-1614724701618.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-lateral-copiloto-1614724699281.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-lateral-copiloto-1614724699281.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-trasero-lateral-piloto-1614724696395.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-trasero-lateral-piloto-1614724696395.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-trasera-1614724693826.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-trasera-1614724693826.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-trasera-lateral-copiloto-1614724687301.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-trasera-lateral-copiloto-1614724687301.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-lateral-piloto-1614724684314.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-lateral-piloto-1614724684314.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-llanta-piloto-1614724680828.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-llanta-piloto-1614724680828.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-llanta-trasera-piloto-1614724679069.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-llanta-trasera-piloto-1614724679069.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-llanta-copiloto-1614724676036.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-llanta-copiloto-1614724676036.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-llanta-trasera-copiloto-1614724673377.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-llanta-trasera-copiloto-1614724673377.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-puerta-piloto-1614724670501.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-puerta-piloto-1614724670501.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-puerta-abierta-piloto-1614724668346.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-puerta-abierta-piloto-1614724668346.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-puerta-trasera-piloto-1614724665516.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-puerta-trasera-piloto-1614724665516.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-puerta-abierta-trasera-piloto-1614724662520.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-puerta-abierta-trasera-piloto-1614724662520.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-puerta-copiloto-1614724660114.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-puerta-copiloto-1614724660114.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-puerta-abierta-copiloto-1614724657436.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-puerta-abierta-copiloto-1614724657436.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-puerta-trasera-copiloto-1614724654806.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-puerta-trasera-copiloto-1614724654806.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-puerta-abierta-trasera-copiloto-1614724650938.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-puerta-abierta-trasera-copiloto-1614724650938.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-motor-1614724646609.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-motor-1614724646609.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-vin-del-auto-1614724644403.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-vin-del-auto-1614724644403.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-tablero-frontal-1614724641566.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-tablero-frontal-1614724641566.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-consola-1614724638242.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-consola-1614724638242.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-volante-1614724635278.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-volante-1614724635278.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-palanca-1614724632173.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-palanca-1614724632173.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-camara-de-reversa-(cuado-aplique)-1614724629431.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-camara-de-reversa-(cuado-aplique)-1614724629431.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-quemacoco-1614724626875.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-quemacoco-1614724626875.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-asientos-trasero-copiloto-1614724623325.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-asientos-trasero-copiloto-1614724623325.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-cajuela-abierta-1614724617159.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-cajuela-abierta-1614724617159.jpg"
+              }
+            ]
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 310,
+              "priority": false,
+              "query": "540x310",
+              "src": "images/38754/infiniti-q50-400-sport2017-llanta-de-repuesto-1614724614794.jpg",
+              "width": 540
+            },
+            "sources": [
+              {
+                "media": "(min-width: 576px)",
+                "query": "756x434",
+                "srcset": "images/38754/infiniti-q50-400-sport2017-llanta-de-repuesto-1614724614794.jpg"
+              }
+            ]
+          }
+        ],
+        "text": "Toca para ver más detalles"
+      },
+      "thumbnails": {
+        "media": [
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-frontal-lateral-piloto-lejana-1614724711427.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-frontal-lateral-piloto-cercana-1614724707414.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-frontal-1614724704637.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-frontal-lateral-copiloto-1614724701618.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-lateral-copiloto-1614724699281.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-trasero-lateral-piloto-1614724696395.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-trasera-1614724693826.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-trasera-lateral-copiloto-1614724687301.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-lateral-piloto-1614724684314.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-llanta-piloto-1614724680828.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-llanta-trasera-piloto-1614724679069.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-llanta-copiloto-1614724676036.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-llanta-trasera-copiloto-1614724673377.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-puerta-piloto-1614724670501.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-puerta-abierta-piloto-1614724668346.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-puerta-trasera-piloto-1614724665516.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-puerta-abierta-trasera-piloto-1614724662520.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-puerta-copiloto-1614724660114.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-puerta-abierta-copiloto-1614724657436.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-puerta-trasera-copiloto-1614724654806.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-puerta-abierta-trasera-copiloto-1614724650938.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-motor-1614724646609.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-vin-del-auto-1614724644403.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-tablero-frontal-1614724641566.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-consola-1614724638242.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-volante-1614724635278.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-palanca-1614724632173.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-camara-de-reversa-(cuado-aplique)-1614724629431.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-quemacoco-1614724626875.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-asientos-trasero-copiloto-1614724623325.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-cajuela-abierta-1614724617159.jpg",
+              "width": 128
+            }
+          },
+          {
+            "base": "",
+            "folder": "",
+            "global": true,
+            "img": {
+              "alt": "Infiniti Q50 Sport Sedan 2017",
+              "draggable": false,
+              "height": 73,
+              "query": "210x120",
+              "src": "images/38754/infiniti-q50-400-sport2017-llanta-de-repuesto-1614724614794.jpg",
+              "width": 128
+            }
+          }
+        ],
+        "text": ""
+      }
+    },
+    "seo": {
+      "canonical": "https://www.kavak.com/mx/usado/infiniti-q50-sport-sedan-2017",
+      "description": "Conduce con estilo en el Infiniti Q50 Sport Sedan 2017, comprando uno de nuestros autos usados a la venta. Certificado, Inspeccionado y con Garantía Kavak.",
+      "hreflang": [
+        {
+          "hreflang": "es-MX",
+          "url": "https://www.kavak.com/mx"
+        },
+        {
+          "hreflang": "es-AR",
+          "url": "https://www.kavak.com/ar"
+        }
+      ],
+      "image": "https://images.kavak.services/images/38754/infiniti-q50-400-sport2017-frontal-lateral-piloto-lejana-1614724711427.jpg",
+      "locale": "es-MX",
+      "robots": "index, follow",
+      "siteName": "Kavak",
+      "title": "Autos Infiniti Q50 Sport Sedan 2017 usados | KAVAK México",
+      "twitterCreator": "@kavakmx"
+    },
+    "showCalculator": false,
+    "tradeInBanner": {
+      "button": {
+        "dataCy": "btn-sell-car-continue",
+        "label": "Vender auto",
+        "url": "https://www.kavak.com/mx/vender-mi-auto"
+      },
+      "image": {
+        "global": true,
+        "img": {
+          "alt": "Cambia o vende tu auto en 1 día ",
+          "draggable": false,
+          "height": 308,
+          "loading": "lazy",
+          "width": 280
+        },
+        "sources": [
+          {
+            "default": true,
+            "srcset": "https://images.kavak.services/mx/assets/images/sellcar/png/trade_in_banner_sm.png",
+            "type": "image/png"
+          },
+          {
+            "default": false,
+            "media": "(min-width:992px)",
+            "srcset": "https://images.kavak.services/mx/assets/images/sellcar/png/trade_in_banner_lg.png",
+            "type": "image/png"
+          }
+        ]
+      },
+      "isActive": true,
+      "itemList": [
+        {
+          "icon": {
+            "src": "\u0026l;svg width=\"25\" height=\"24\" viewBox=\"0 0 25 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g;\n\u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M17.6349 7.82809C17.3191 7.56013 16.8458 7.59897 16.5778 7.91483L10.5249 15.0498C10.4344 15.1565 10.2738 15.1681 10.1689 15.0755L7.74596 12.9376C7.43536 12.6636 6.96141 12.6932 6.68736 13.0038C6.41331 13.3144 6.44293 13.7883 6.75352 14.0624L9.17646 16.2003C9.91116 16.8485 11.0349 16.7673 11.6688 16.0202L17.7217 8.8852C17.9896 8.56934 17.9508 8.09605 17.6349 7.82809Z\" fill=\"#333333\"/\u0026g;\n\u0026l;/svg\u0026g;"
+          },
+          "title": "Obtén un bono extra al vendernos tu auto y cambiarlo por un Kavak"
+        },
+        {
+          "icon": {
+            "src": "\u0026l;svg width=\"25\" height=\"24\" viewBox=\"0 0 25 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g;\n\u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M17.6349 7.82809C17.3191 7.56013 16.8458 7.59897 16.5778 7.91483L10.5249 15.0498C10.4344 15.1565 10.2738 15.1681 10.1689 15.0755L7.74596 12.9376C7.43536 12.6636 6.96141 12.6932 6.68736 13.0038C6.41331 13.3144 6.44293 13.7883 6.75352 14.0624L9.17646 16.2003C9.91116 16.8485 11.0349 16.7673 11.6688 16.0202L17.7217 8.8852C17.9896 8.56934 17.9508 8.09605 17.6349 7.82809Z\" fill=\"#333333\"/\u0026g;\n\u0026l;/svg\u0026g;"
+          },
+          "title": "Plan de Pagos Pre aprobado*"
+        },
+        {
+          "icon": {
+            "src": "\u0026l;svg width=\"25\" height=\"24\" viewBox=\"0 0 25 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g;\n\u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M17.6349 7.82809C17.3191 7.56013 16.8458 7.59897 16.5778 7.91483L10.5249 15.0498C10.4344 15.1565 10.2738 15.1681 10.1689 15.0755L7.74596 12.9376C7.43536 12.6636 6.96141 12.6932 6.68736 13.0038C6.41331 13.3144 6.44293 13.7883 6.75352 14.0624L9.17646 16.2003C9.91116 16.8485 11.0349 16.7673 11.6688 16.0202L17.7217 8.8852C17.9896 8.56934 17.9508 8.09605 17.6349 7.82809Z\" fill=\"#333333\"/\u0026g;\n\u0026l;/svg\u0026g;"
+          },
+          "title": "Intercambiamos los autos al mismo tiempo."
+        }
+      ],
+      "title": "Cambia tu auto con más beneficios"
+    },
+    "valueProposition": {
+      "isActive": true,
+      "list": [
+        {
+          "icon": "\u0026l;svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4.50001 3C3.67355 3 3 3.6681 3 4.4985L3.00001 9.75003C3.00001 12.8886 3.79007 14.9185 5.05221 16.4117C6.10328 17.6552 7.4624 18.4874 8.74 19.2697L8.74087 19.2703C8.94743 19.3967 9.15185 19.5219 9.3525 19.6473L9.3701 19.6583L11.2766 20.7079C11.727 20.9558 12.273 20.9558 12.7234 20.7079L14.6299 19.6583L14.6475 19.6473C14.8484 19.5217 15.0531 19.3964 15.26 19.2697C16.5376 18.4874 17.8967 17.6552 18.9478 16.4117C20.2099 14.9185 21 12.8886 21 9.75V4.5C21 3.67157 20.3284 3 19.5 3H4.50001ZM19.5 4.5H4.50001L4.50001 9.75003C4.50001 12.6115 5.20994 14.2747 6.19779 15.4434C7.0805 16.4877 8.20918 17.1815 9.49611 17.9726C9.70337 18.1 9.91473 18.23 10.1298 18.3643L12 19.3939L13.8702 18.3643C14.0853 18.23 14.2966 18.1 14.5039 17.9726C15.7908 17.1815 16.9195 16.4877 17.8022 15.4434C18.7901 14.2747 19.5 12.6114 19.5 9.75V4.5ZM15.15 7.80008C15.3985 7.46871 15.8686 7.40155 16.2 7.65008C16.5313 7.89861 16.5985 8.36871 16.35 8.70008L12.3688 14.0083C11.8211 14.7385 10.7536 14.8144 10.1081 14.1689L8.46962 12.5304C8.17673 12.2375 8.17673 11.7626 8.46962 11.4698C8.76252 11.1769 9.23739 11.1769 9.53028 11.4698L11.1688 13.1083L15.15 7.80008Z\" fill=\"#009F66\"/\u0026g; \u0026l;/svg\u0026g;",
+          "iconColor": "success",
+          "iconWidth": "1.125rem",
+          "id": 41,
+          "title": "3 meses de garantía mecánica."
+        },
+        {
+          "icon": "\u0026l;svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M13.4037 3.35963C14.3799 2.99089 15.4401 2.90356 16.4635 3.10758C16.487 3.11226 16.5103 3.11807 16.5332 3.12498C16.7737 3.19743 16.9954 3.32185 17.1825 3.48944C17.3697 3.65703 17.5177 3.8637 17.6162 4.09484C17.7361 4.37647 17.6728 4.70272 17.4564 4.91912L14.9211 7.45352C14.8272 7.5503 14.7748 7.67976 14.7748 7.8145C14.7748 7.94382 14.8231 8.06827 14.9099 8.16363L15.8522 9.00644C15.866 9.01876 15.8793 9.03158 15.8921 9.04489C15.9406 9.09511 15.9986 9.13507 16.0629 9.16238C16.1271 9.18968 16.1963 9.20375 16.2661 9.20375C16.3359 9.20375 16.4051 9.18968 16.4693 9.16238C16.5336 9.13507 16.5916 9.09511 16.6401 9.04489L16.6497 9.03504L19.1883 6.49741C19.4336 6.25222 19.8149 6.20718 20.1106 6.38847C20.3155 6.51413 20.4917 6.68148 20.6278 6.87967C20.7632 7.07699 20.8559 7.30047 20.8997 7.53574C21.0945 8.54927 21.0044 9.59694 20.6396 10.5624C20.2744 11.5288 19.6483 12.3749 18.8309 13.0067C18.0135 13.6385 17.0368 14.0313 16.0095 14.1414C15.1614 14.2323 14.3062 14.1276 13.5088 13.8383L6.93654 20.3963C6.74919 20.5868 6.52585 20.7384 6.27947 20.842C6.03155 20.9463 5.76531 21 5.49636 21C5.22741 21 4.96116 20.9463 4.71324 20.842C4.46677 20.7383 4.24334 20.5867 4.05594 20.396L3.60424 19.9445C3.4135 19.7572 3.26185 19.5338 3.15811 19.2874C3.05376 19.0395 3 18.7732 3 18.5043C3 18.2353 3.05376 17.9691 3.15811 17.7212C3.26209 17.4741 3.41422 17.2503 3.60559 17.0627C3.60627 17.0621 3.60696 17.0614 3.60764 17.0607L10.1683 10.5624C9.86337 9.76555 9.74465 8.90682 9.82462 8.05242C9.92185 7.01362 10.3089 6.023 10.9417 5.19335C11.5745 4.3637 12.4275 3.72836 13.4037 3.35963ZM15.7376 4.51629C15.1273 4.46155 14.5105 4.54502 13.9338 4.76286C13.2202 5.03237 12.5968 5.49673 12.1344 6.10302C11.672 6.70931 11.3891 7.43318 11.3181 8.19222C11.247 8.95125 11.3906 9.71499 11.7325 10.3965C11.878 10.6865 11.8204 11.0373 11.5899 11.2656L4.65615 18.1334C4.60671 18.1818 4.56742 18.2394 4.54061 18.3031C4.51381 18.3668 4.5 18.4352 4.5 18.5043C4.5 18.5733 4.51381 18.6417 4.54061 18.7054C4.56742 18.7691 4.60669 18.8268 4.65614 18.8751L4.66216 18.881L5.12502 19.3438C5.17337 19.3932 5.23109 19.4325 5.29486 19.4593C5.35864 19.4862 5.42714 19.5 5.49636 19.5C5.56557 19.5 5.63407 19.4862 5.69785 19.4593C5.76163 19.4325 5.81938 19.3932 5.86773 19.3438L5.8741 19.3373L12.8043 12.4223C13.0289 12.1982 13.3702 12.1397 13.6566 12.2761C14.3389 12.601 15.0981 12.7305 15.8496 12.6499C16.6012 12.5694 17.3156 12.2821 17.9135 11.8199C18.5114 11.3577 18.9694 10.7389 19.2364 10.0322C19.4439 9.48309 19.5299 8.89765 19.4909 8.31588L17.7145 10.0916C17.5272 10.2844 17.3033 10.4378 17.0559 10.5429C16.8061 10.6491 16.5375 10.7038 16.2661 10.7038C15.9947 10.7038 15.7261 10.6491 15.4763 10.5429C15.236 10.4408 15.0179 10.2931 14.834 10.1081L13.8876 9.26169C13.8754 9.25077 13.8635 9.23946 13.8521 9.22776C13.4821 8.85041 13.2748 8.34301 13.2748 7.8145C13.2748 7.28598 13.4821 6.77859 13.8521 6.40123L13.8573 6.39588L15.7376 4.51629Z\" fill=\"#009F66\"/\u0026g;\u0026l;/svg\u0026g;",
+          "iconColor": "success",
+          "iconWidth": "1.125rem",
+          "id": 42,
+          "title": "Inspección de 240 puntos."
+        },
+        {
+          "icon": "\u0026l;svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path d=\"M8.64917 13.6556V3.52441H3.55271C2.82994 3.57841 2.15895 3.8876 1.68289 4.38602C1.20682 4.88444 0.96337 5.53262 1.00447 6.19229V12.7691C0.991642 12.989 1.07359 13.2047 1.23285 13.3703C1.3921 13.5359 1.61606 13.6383 1.85697 13.6556H3.32105\" stroke=\"#009F66\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M5.40621 15.555C6.55768 15.555 7.49113 14.7046 7.49113 13.6555C7.49113 12.6063 6.55768 11.7559 5.40621 11.7559C4.25474 11.7559 3.32129 12.6063 3.32129 13.6555C3.32129 14.7046 4.25474 15.555 5.40621 15.555Z\" stroke=\"#009F66\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M16.294 15.555C17.4454 15.555 18.3789 14.7046 18.3789 13.6555C18.3789 12.6063 17.4454 11.7559 16.294 11.7559C15.1425 11.7559 14.209 12.6063 14.209 13.6555C14.209 14.7046 15.1425 15.555 16.294 15.555Z\" stroke=\"#009F66\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M1.00494 7.32395H5.06359C5.17015 7.32626 5.27611 7.30884 5.37507 7.27275C5.47403 7.23665 5.56391 7.18263 5.63928 7.11396C5.71466 7.04529 5.77394 6.96339 5.81356 6.87323C5.85317 6.78307 5.87229 6.68653 5.86975 6.58944V3.5332\" stroke=\"#009F66\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M7.49127 13.6553H14.2093\" stroke=\"#009F66\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M21.8539 9.43419H8.64941V2.26639C8.64941 1.93053 8.79585 1.60841 9.05652 1.37092C9.31718 1.13342 9.67072 1 10.0394 1H20.464C20.8326 1 21.1861 1.13342 21.4468 1.37092C21.7075 1.60841 21.8539 1.93053 21.8539 2.26639V9.43419Z\" stroke=\"#009F66\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M18.3785 13.6559H20.4634C20.832 13.6559 21.1856 13.5225 21.4462 13.285C21.7069 13.0475 21.8533 12.7254 21.8533 12.3895V9.43457\" stroke=\"#009F66\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;/svg\u0026g;",
+          "iconColor": "success",
+          "iconWidth": "1.125rem",
+          "id": 43,
+          "title": "Envío a todo el país. Este servicio tiene un costo adicional"
+        },
+        {
+          "icon": "\u0026l;svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9 3.75C9 3.33579 8.66421 3 8.25 3C7.83579 3 7.5 3.33579 7.5 3.75V4.5H4.5C3.67157 4.5 3 5.17157 3 6V11.25V19.5C3 20.3284 3.67157 21 4.5 21H19.5C20.3284 21 21 20.3284 21 19.5V11.25V6C21 5.17157 20.3284 4.5 19.5 4.5H16.5V3.75C16.5 3.33579 16.1642 3 15.75 3C15.3358 3 15 3.33579 15 3.75V4.5H9V3.75ZM15 6L9 6V6.75C9 7.16421 8.66421 7.5 8.25 7.5C7.83579 7.5 7.5 7.16421 7.5 6.75V6H4.5V10.5H19.5V6H16.5V6.75C16.5 7.16421 16.1642 7.5 15.75 7.5C15.3358 7.5 15 7.16421 15 6.75V6ZM4.5 19.5V12H19.5V19.5H4.5Z\" fill=\"#009F66\"/\u0026g; \u0026l;/svg\u0026g;",
+          "iconColor": "success",
+          "iconWidth": "1.125rem",
+          "id": 44,
+          "title": "Prueba de 7 días o 300 km."
+        },
+        {
+          "icon": "\u0026l;svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u0026g; \u0026l;path d=\"M19.6585 14.2217H1\" stroke=\"#009F66\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M4.10976 17.0553L1 14.222L4.10976 11.3887\" stroke=\"#009F66\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M19.6585 3.83301H1\" stroke=\"#009F66\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;path d=\"M16.5488 6.66667L19.6585 3.83333L16.5488 1\" stroke=\"#009F66\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/\u0026g; \u0026l;/svg\u0026g;",
+          "iconColor": "success",
+          "iconWidth": "1.125rem",
+          "id": 45,
+          "title": "Descuento por intercambio. Deja el tuyo y llévate este por mucho menos."
+        }
+      ]
+    }
+  }
+}
