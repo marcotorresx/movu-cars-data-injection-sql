@@ -1,7 +1,7 @@
 const fs = require("fs");
 
-function getCarData(fileName) {
-  const dealerships = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+function getCarData(fileName, brands) {
+  const dealerships = Array.from({ length: 200 }, (_, i) => i + 1052);
 
   // Read file and get json
   const file = fs?.readFileSync(`../data/${fileName}`, "utf8");
@@ -12,7 +12,8 @@ function getCarData(fileName) {
   const carData = {};
 
   // ------------- Model data -------------
-  carData.brand = main?.car_make;
+  const foundBrand = brands[main?.car_make];
+  carData.brand = foundBrand ? foundBrand : 89;
   carData.model_name = main?.car_model;
   carData.body_type = main?.body_type;
   carData.year = main?.car_year || 2000;
@@ -36,7 +37,7 @@ function getCarData(fileName) {
   const images = [];
   original_images?.forEach((img) => {
     const image = {};
-    image.img_url = "https://images?.kavak?.services/" + img?.media;
+    image.img_url = "https://images.kavak.services/" + img?.media;
     image.order = img?.order;
     images.push(image);
   });
@@ -58,11 +59,11 @@ function getCarData(fileName) {
 }
 
 // function main() {
-//   const fileName = "13225_ok?.json";
+//   const fileName = "13225_ok.json";
 //   const carData = getCarData(fileName);
 //   console?.log(carData);
 // }
 
-// // main();
+// main();
 
 exports.getCarData = getCarData;

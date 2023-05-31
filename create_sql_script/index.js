@@ -1,5 +1,6 @@
 const fs = require("fs");
 const { getCarData } = require("./getCarData");
+const { saveElastic } = require("./saveElastic");
 
 const fileNames = fs.readdirSync("../data");
 
@@ -9,28 +10,30 @@ INSERT INTO public.car_models
   brand,
   model_name,
   body_type,
-  year
+  year,
+  batch
 ) 
 VALUES
 `;
 
 let carVariantsScript = `
-  INSERT INTO public.car_variant
-  (
-    car_model_id,
-    full_name,
-    variant_name,
-    is_new,
-    used_km,
-    fuel_type,
-    horse_power,
-    passengers,
-    traction,
-    transmission,
-    spin,
-    colors
-  )
-  VALUES
+INSERT INTO public.car_variant
+(
+  car_model_id,
+  full_name,
+  variant_name,
+  is_new,
+  used_km,
+  fuel_type,
+  horse_power,
+  passengers,
+  traction,
+  transmission,
+  spin,
+  colors,
+  batch
+)
+VALUES
 `;
 
 let listingScript = `
@@ -40,28 +43,36 @@ INSERT INTO public.listings
   car_model_id, 
   car_variant_id, 
   base_price, 
-  test_drive
+  test_drive,
+  batch
 ) 
 VALUES
 `;
 
+// Get brands
+const brandsFile = fs.readFileSync("../results/new_brands.json", "utf8");
+const brands = JSON.parse(brandsFile);
+const batch = 10;
+
 // Process data from each file
-fileNames.slice(0, 5).forEach((fileName, i) => {
+fileNames.slice(9000, 10000).forEach((fileName, i) => {
   // Get car data
-  const carData = getCarData(fileName);
+  const carData = getCarData(fileName, brands);
+  const listingId = i + 9002;
 
   // Add data to model script
   carModelsScript += `
   -- ${i}
   (
-    '${carData.brand}',
+    ${carData.brand},
     '${carData.model_name}',
     '${carData.body_type}',
-    ${carData.year}
+    ${carData.year},
+    ${batch}
   ),`;
 
   // Add data to variant script
-  const car_model_id = i + 1;
+  const car_model_id = listingId;
   carVariantsScript += `
   -- ${i}
   (
@@ -76,11 +87,12 @@ fileNames.slice(0, 5).forEach((fileName, i) => {
     '${carData.traction}',
     '${carData.transmission}',
     '${carData.spin}',
-    '[${carData.colors.length ? JSON.stringify(carData.colors[0]) : {}}]'
+    '[${carData.colors.length ? JSON.stringify(carData.colors[0]) : {}}]',
+    ${batch}
   ),`;
 
   // Add data to listing script
-  const car_variant_id = i + 1;
+  const car_variant_id = listingId;
   listingScript += `
   -- ${i}
   (
@@ -88,7 +100,8 @@ fileNames.slice(0, 5).forEach((fileName, i) => {
     ${car_variant_id},
     ${car_variant_id},
     ${carData.base_price},
-    ${carData.available_test_drive}
+    ${carData.available_test_drive},
+    ${batch}
   ),`;
 });
 
