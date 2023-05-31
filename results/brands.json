@@ -1,0 +1,131 @@
+// {
+//   "Toyota": 5,
+//   "Mercedes Benz": 6,
+//   "Mazda": 7,
+//   "Audi": 8,
+//   "Volkswagen": 9,
+//   "Chevrolet": 10,
+//   "Smart": 11,
+//   "Jeep": 12,
+//   "Nissan": 13,
+//   "Seat": 14,
+//   "Kia": 15,
+//   "Jaguar": 16,
+//   "Alfa Romeo": 17,
+//   "Honda": 18,
+//   "Land Rover": 19,
+//   "Bmw": 20,
+//   "Ford": 21,
+//   "Infiniti": 22,
+//   "Suzuki": 23,
+//   "Volvo": 24,
+//   "Renault": 25,
+//   "Hyundai": 26,
+//   "Fiat": 27,
+//   "Mini": 28,
+//   "Buick": 29,
+//   "Dodge": 30,
+//   "Peugeot": 31,
+//   "Porsche": 32,
+//   "Mitsubishi": 33,
+//   "Gmc": 34,
+//   "Acura": 35,
+//   "Cadillac": 36,
+//   "Lincoln": 37,
+//   "undefined": 38,
+//   "Jac": 39,
+//   "Chrysler": 40,
+//   "Baic": 41,
+//   "Subaru": 42,
+//   "RAM": 43,
+//   "Mg": 44,
+//   "Tesla": 45,
+//   "Cupra": 46
+// }
+
+{
+  "name": "Gris",
+  "hex_code": "#000000",
+  "images": [
+    {
+      "img_url": "https://images?.kavak?.services/images/155255/EXTERIOR-frontSidePilotNear-1641835077663.jpeg",
+      "order": 2
+    },
+    {
+      "img_url": "https://images?.kavak?.services/images/155255/EXTERIOR-front-1641835057399.jpeg",
+      "order": 3
+    },
+    {
+      "img_url": "https://images?.kavak?.services/images/155255/EXTERIOR-frontSideCopilot-1641835051664.jpeg",
+      "order": 4
+    },
+    {
+      "img_url": "https://images?.kavak?.services/images/155255/EXTERIOR-copilotSide-1641835133477.jpeg",
+      "order": 5
+    },
+    {
+      "img_url": "https://images?.kavak?.services/images/155255/EXTERIOR-backSidePilot-1641834999864.jpeg",
+      "order": 6
+    },
+    {
+      "img_url": "https://images?.kavak?.services/images/155255/EXTERIOR-back-1641835005677.jpeg",
+      "order": 7
+    },
+    {
+      "img_url": "https://images?.kavak?.services/images/155255/EXTERIOR-pilotRim-1641835021173.jpeg",
+      "order": 10
+    },
+    {
+      "img_url": "https://images?.kavak?.services/images/155255/EXTERIOR-rimBackPilot-1641835026420.jpeg",
+      "order": 11
+    },
+    {
+      "img_url": "https://images?.kavak?.services/images/155255/EXTERIOR-pilotDoor-1641834961224.jpeg",
+      "order": 14
+    },
+    {
+      "img_url": "https://images?.kavak?.services/images/155255/EXTERIOR-openDoorPilot-1641834968199.jpeg",
+      "order": 15
+    },
+    {
+      "img_url": "https://images?.kavak?.services/images/155255/EXTERIOR-openDoorBackPilot-1641834979459.jpeg",
+      "order": 17
+    },
+    {
+      "img_url": "https://images?.kavak?.services/images/155255/EXTERIOR-openDoorCopilot-1641834989880.jpeg",
+      "order": 19
+    },
+    {
+      "img_url": "https://images?.kavak?.services/images/155255/EXTERIOR-engine-1641834946078.jpeg",
+      "order": 22
+    },
+    {
+      "img_url": "https://images?.kavak?.services/images/155255/INTERIOR-frontBoard-1641834768081.jpeg",
+      "order": 24
+    },
+    {
+      "img_url": "https://images?.kavak?.services/images/155255/INTERIOR-console-1641834774572.jpeg",
+      "order": 25
+    },
+    {
+      "img_url": "https://images?.kavak?.services/images/155255/INTERIOR-flyer-1641834710799.jpeg",
+      "order": 26
+    },
+    {
+      "img_url": "https://images?.kavak?.services/images/155255/INTERIOR-lever-1641834779562.jpeg",
+      "order": 27
+    },
+    {
+      "img_url": "https://images?.kavak?.services/images/155255/INTERIOR-backSeatCopilot-1641835479361.jpeg",
+      "order": 30
+    },
+    {
+      "img_url": "https://images?.kavak?.services/images/155255/INTERIOR-openTrunk-1641834697092.jpeg",
+      "order": 31
+    },
+    {
+      "img_url": "https://images?.kavak?.services/images/155255/INTERIOR-spareRim-1641834157702.jpeg",
+      "order": 32
+    }
+  ]
+}
