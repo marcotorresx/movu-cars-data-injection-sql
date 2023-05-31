@@ -46,7 +46,7 @@ VALUES
 `;
 
 // Process data from each file
-fileNames.slice(0, 1000).forEach((fileName, i) => {
+fileNames.slice(0, 5).forEach((fileName, i) => {
   // Get car data
   const carData = getCarData(fileName);
 
@@ -54,9 +54,9 @@ fileNames.slice(0, 1000).forEach((fileName, i) => {
   carModelsScript += `
   -- ${i}
   (
-    '${carData.brand}', 
-    '${carData.model_name}', 
-    '${carData.body_type}', 
+    '${carData.brand}',
+    '${carData.model_name}',
+    '${carData.body_type}',
     ${carData.year}
   ),`;
 
@@ -65,20 +65,18 @@ fileNames.slice(0, 1000).forEach((fileName, i) => {
   carVariantsScript += `
   -- ${i}
   (
-    ${car_model_id}, 
-    '${carData.full_name}', 
-    '${carData.variant_name}', 
-    ${carData.is_new}, 
-    ${carData.used_km}, 
-    '${carData.fuel_type}', 
-    '${carData.horse_power}', 
-    ${carData.passengers}, 
-    '${carData.traction}', 
-    '${carData.transmission}', 
+    ${car_model_id},
+    '${carData.full_name}',
+    '${carData.variant_name}',
+    ${carData.is_new},
+    ${carData.used_km},
+    '${carData.fuel_type}',
+    '${carData.horse_power}',
+    ${carData.passengers},
+    '${carData.traction}',
+    '${carData.transmission}',
     '${carData.spin}',
-    array['${
-      carData.colors.length ? JSON.stringify(carData.colors[0]) : {}
-    }']::json[]
+    '[${carData.colors.length ? JSON.stringify(carData.colors[0]) : {}}]'
   ),`;
 
   // Add data to listing script
@@ -86,10 +84,10 @@ fileNames.slice(0, 1000).forEach((fileName, i) => {
   listingScript += `
   -- ${i}
   (
-    ${carData.dealership_id}, 
-    ${car_variant_id}, 
+    ${carData.dealership_id},
     ${car_variant_id},
-    ${carData.base_price}, 
+    ${car_variant_id},
+    ${carData.base_price},
     ${carData.available_test_drive}
   ),`;
 });

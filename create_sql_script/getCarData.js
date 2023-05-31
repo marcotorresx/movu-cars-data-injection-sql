@@ -41,7 +41,7 @@ function getCarData(fileName) {
     images.push(image);
   });
   const color = {
-    name: original_color,
+    name: original_color || "Negro",
     hex_code: "#000000",
     images,
   };

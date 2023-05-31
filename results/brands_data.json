@@ -1,0 +1,166 @@
+[
+  {
+    "name": "Toyota",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/toyota.png"
+  },
+  {
+    "name": "Mercedes Benz",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/mercedes.png"
+  },
+  {
+    "name": "Mazda",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/mazda.png"
+  },
+  {
+    "name": "Audi",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/audi.png"
+  },
+  {
+    "name": "Volkswagen",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/volkswagen.png"
+  },
+  {
+    "name": "Chevrolet",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/chevrolet.png"
+  },
+  {
+    "name": "Smart",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/smart.png"
+  },
+  {
+    "name": "Jeep",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/jeep.png"
+  },
+  {
+    "name": "Nissan",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/nissan.png"
+  },
+  {
+    "name": "Seat",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/seat.png"
+  },
+  {
+    "name": "Kia",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/kia.png"
+  },
+  {
+    "name": "Jaguar",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/jaguar.png"
+  },
+  {
+    "name": "Alfa Romeo",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/alfaromeo.png"
+  },
+  {
+    "name": "Honda",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/honda.png"
+  },
+  {
+    "name": "Land Rover",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/landrover.png"
+  },
+  {
+    "name": "Bmw",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/bmw.png"
+  },
+  {
+    "name": "Ford",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/ford.png"
+  },
+  {
+    "name": "Infiniti",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/infiniti.png"
+  },
+  {
+    "name": "Suzuki",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/suzuki.png"
+  },
+  {
+    "name": "Volvo",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/volvo.png"
+  },
+  {
+    "name": "Renault",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/renault.png"
+  },
+  {
+    "name": "Hyundai",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/hyundai.png"
+  },
+  {
+    "name": "Fiat",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/fiat.png"
+  },
+  {
+    "name": "Mini",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/mini.png"
+  },
+  {
+    "name": "Buick",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/buick.png"
+  },
+  {
+    "name": "Dodge",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/dodge.png"
+  },
+  {
+    "name": "Peugeot",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/peugeot.png"
+  },
+  {
+    "name": "Porsche",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/porsche.png"
+  },
+  {
+    "name": "Mitsubishi",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/mitsubishi.png"
+  },
+  {
+    "name": "Gmc",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/gmc.png"
+  },
+  {
+    "name": "Acura",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/acura.png"
+  },
+  {
+    "name": "Cadillac",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/cadillac.png"
+  },
+  {
+    "name": "Lincoln",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/lincoln.png"
+  },
+  {
+    "name": "Jac",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/jac.png"
+  },
+  {
+    "name": "Chrysler",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/chrysler.png"
+  },
+  {
+    "name": "Baic",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/baic.png"
+  },
+  {
+    "name": "Subaru",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/subaru.png"
+  },
+  {
+    "name": "RAM",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/ram.png"
+  },
+  {
+    "name": "Mg",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/mg.png"
+  },
+  {
+    "name": "Tesla",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/tesla.png"
+  },
+  {
+    "name": "Cupra",
+    "logo_url": "https://images.prd.kavak.io/assets/images/brands/color/cupra.png"
+  }
+]
